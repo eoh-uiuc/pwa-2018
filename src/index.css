@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: #1855AA;
+
+  background-image:
+    linear-gradient(0deg,
+      transparent 0%, transparent 19px,
+      rgba(255,255,255,0.1) 19px, rgba(255,255,255,0.1) 20px, transparent 20px, transparent 39px,
+      rgba(255,255,255,0.05) 39px, rgba(255,255,255,0.05) 40px, transparent 40px, transparent 59px,
+      rgba(255,255,255,0.05) 59px, rgba(255,255,255,0.05) 60px, transparent 60px, transparent 79px,
+      rgba(255,255,255,0.05) 79px, rgba(255,255,255,0.05) 80px, transparent 80px, transparent 99px,
+      rgba(255,255,255,0.05) 99px, rgba(255,255,255,0.05) 100px),
+    linear-gradient(-90deg,
+      transparent 0%, transparent 19px,
+      rgba(255,255,255,0.1) 19px, rgba(255,255,255,0.1) 20px, transparent 20px, transparent 39px,
+      rgba(255,255,255,0.05) 39px, rgba(255,255,255,0.05) 40px, transparent 40px, transparent 59px,
+      rgba(255,255,255,0.05) 59px, rgba(255,255,255,0.05) 60px, transparent 60px, transparent 79px,
+      rgba(255,255,255,0.05) 79px, rgba(255,255,255,0.05) 80px, transparent 80px, transparent 99px,
+      rgba(255,255,255,0.05) 99px, rgba(255,255,255,0.05) 100px);
+  background-size: 100px 100px;
+}

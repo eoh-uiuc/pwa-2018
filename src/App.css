@@ -1,0 +1,34 @@
+.app {
+  height: 100vh;
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 2fr 1fr;
+}
+
+.heading {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.heading img {
+  max-width: 100%;
+}
+
+.heading img.logo {
+  width: 630px;
+}
+
+.heading img.draft-text {
+  width: 500px;
+}
+
+.countdown {
+  text-align: center;
+  color: white;
+  font-size: 3em;
+  font-weight: 800;
+  font-family: 'Share Tech Mono', monospace;
+}
