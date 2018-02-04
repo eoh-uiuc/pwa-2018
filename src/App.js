@@ -1,77 +1,33 @@
-import React, { Component } from 'react';
+import React from 'react';
 import moment from 'moment';
+import { HashRouter } from 'react-router-dom';
+import { createStore } from 'redux';
+import { Provider } from 'react-redux';
 
-import './App.css';
-import './normalize.css';
-import './skeleton.css';
+import reducer from './services/store';
+import Countdown from './scenes/Countdown';
+import LiveApp from './scenes/LiveApp';
 
-class App extends Component {
-  constructor() {
-    super();
-    this.open = moment('9 Mar 2018 00:00:00 CST');
-    const now = moment(Date.now());
-    this.state = {
-      d: this.open.diff(now, 'days'),
-      h: this.open.diff(now, 'hours') % 24,
-      m: this.open.diff(now, 'minutes') % 60,
-      s: this.open.diff(now, 'seconds') % 60
-    };
-  }
+import './styles/normalize.css';
+import './styles/skeleton.css';
 
-  componentWillMount() {
-    const interval = window.setInterval(() => {
-      const now = moment(Date.now());
-      this.setState({
-        d: this.open.diff(now, 'days'),
-        h: this.open.diff(now, 'hours') % 24,
-        m: this.open.diff(now, 'minutes') % 60,
-        s: this.open.diff(now, 'seconds') % 60
-      });
-    }, 1000);
+const store = createStore(reducer);
 
-    this.intervalID = interval;
-  }
+const App = () => {
+  const targetDate = moment(process.env.REACT_APP_DATE);
+  const live = (process.env.REACT_APP_LIVE === '1') ||
+    (targetDate.diff(Date.now()) < 0);
 
-  componentWillUnmount() {
-    window.clearInterval(this.intervalID);
-  }
-
-  render() {
-    const format = (num, size) => {
-      let s = num + '';
-      while (s.length < size) {
-        s = '0' + s;
-      }
-      return s;
-    };
-
-    const d = format(this.state.d, 2);
-    const h = format(this.state.h, 2);
-    const m = format(this.state.m, 2);
-    const s = format(this.state.s, 2);
-
-    const count = `${d}:${h}:${m}:${s}`
-
+  if (live) {
     return (
-      <div className="app container">
-        <div className="heading">
-          <img
-            className="logo"
-            src={require('./assets/eoh-logo.png')}
-            alt="EOH Logo"
-          />
-          <img
-            className="draft-text"
-            src={require('./assets/draft-text.png')}
-            alt="Drafting the future"
-          />
-        </div>
-
-        <div className="countdown">
-          <p>{count}</p>
-        </div>
-      </div>
+      <Provider store={store}>
+        <HashRouter>
+          <LiveApp />
+        </HashRouter>
+      </Provider>
     );
+  } else {
+    return <Countdown />;
   }
 }
 

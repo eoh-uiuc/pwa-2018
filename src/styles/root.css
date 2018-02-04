@@ -21,3 +21,7 @@ body {
       rgba(255,255,255,0.05) 99px, rgba(255,255,255,0.05) 100px);
   background-size: 100px 100px;
 }
+
+.live-app .container {
+  margin-top: 85px;
+}
