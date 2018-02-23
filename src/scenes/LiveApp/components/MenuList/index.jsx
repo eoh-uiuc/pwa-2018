@@ -60,16 +60,16 @@ const MenuList = (props) => {
 
       <ListItem button>
         <ListItemIcon>
-          <CarIcon />
+          <BuildIcon />
         </ListItemIcon>
-        <ListText to="/map" text="Parking" />
+        <ListText to="/exhibits" text="Exhibits" />
       </ListItem>
 
       <ListItem button>
         <ListItemIcon>
-          <BuildIcon />
+          <CarIcon />
         </ListItemIcon>
-        <ListText to="/exhibits" text="Exhibits" />
+        <ListText to="/map" text="Parking" />
       </ListItem>
 
       <ListItem button>

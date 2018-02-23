@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import { withScriptjs, withGoogleMap, GoogleMap, Marker } from "react-google-maps"
+import Paper from 'material-ui/Paper';
 
 import { setPage } from 'services/AppBar/actions';
 import Popup from './components/Popup';
@@ -86,9 +87,18 @@ class Map extends Component {
   render() {
     return (
       <div className="map">
-        <p>
+        {/*<p className="description-text">
           Parking is available in Lot E14, B22, and parking garage B4 shown below.
         </p>
+        <p className="description-text">
+          Tap a marker to get directions.
+        </p>*/}
+        <Paper className="description-wrapper">
+          <p>
+            Parking is available in Lot E14, B22, and parking garage B4 shown
+            below. Tap a marker to get directions.
+          </p>
+        </Paper>
         <GMapContainer
           googleMapURL="https://maps.googleapis.com/maps/api/js?key=AIzaSyD0p4tcXgvmPZFWGi684Q1WaRAGN6dwc30"
           loadingElement={<div />}

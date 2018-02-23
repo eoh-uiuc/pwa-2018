@@ -15,6 +15,7 @@ import MenuList from './components/MenuList';
 import Schedule from './scenes/Schedule';
 import Event from './scenes/Event';
 import Exhibits from './scenes/Exhibits';
+import Building from './scenes/Building';
 import FAQ from './scenes/FAQ';
 
 import Information from './scenes/Information';
@@ -115,9 +116,10 @@ class LiveApp extends Component {
         </AppBar>
 
         <div className="container">
-          <Route exact path="/" component={Schedule} />
+          <Route path="/" exact component={Schedule} />
           <Route path="/event/:eventID" component={Event} />
-          <Route path="/exhibits" component={Exhibits} />
+          <Route path="/exhibits" exact component={Exhibits} />
+          <Route path="/exhibits/:buildingID" component={Building} />
           <Route path="/faq" component={FAQ} />
           <Route path="/information" component={Information} />
           <Route path="/map" component={Map} />

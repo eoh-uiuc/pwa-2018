@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 import { connect } from 'react-redux';
 
 import { setPage } from 'services/AppBar/actions';
+import QA from '../../components/QA';
+import './styles.css';
 
 class Information extends Component {
   componentWillMount() {
@@ -15,6 +17,19 @@ class Information extends Component {
   render() {
     return (
       <div id="info-container">
+        <div className="info-block">
+          <QA question="Emergency Information">
+            <div>
+              <p>UI Police:&nbsp;
+                <a href="tel+217-333-1216">(217) 333-1216</a>
+              </p>
+              <p>Champaign Police:&nbsp;
+                <a href="tel+217-351-4545">(217) 351-4545</a>
+              </p>
+            </div>
+          </QA>
+        </div>
+
         <a
           className="twitter-timeline"
           data-height="500"

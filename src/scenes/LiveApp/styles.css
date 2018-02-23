@@ -1,3 +1,8 @@
+.live-app {
+  font-family: Roboto;
+  margin-bottom: 20px;
+}
+
 .live-app .logo {
   max-height: 38px;
 }
@@ -9,3 +14,30 @@
   align-items: center;
   width: 100%;
 }
+
+.description-text {
+  text-shadow: 0px 0px 9px rgba(0,0,0,0.4);
+  margin-bottom: 1rem;
+  font-weight: 500;
+  text-align: center;
+}
+
+.description-wrapper {
+  color: #454545;
+  padding: 15px 8px;
+  margin-bottom: 20px;
+  background-color: rgba(255,255,255,0.97);
+}
+
+.description-wrapper > p {
+  text-shadow: none;
+  font-weight: 500;
+  margin: 0rem;
+}
+
+/*
+ * blue - 1855aa
+ * yellow - f8c200
+ * gray - 242323
+ * white - ffffff
+*/
