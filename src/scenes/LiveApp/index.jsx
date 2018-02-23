@@ -14,6 +14,12 @@ import BackIcon from 'material-ui-icons/ArrowBack';
 import MenuList from './components/MenuList';
 import Schedule from './scenes/Schedule';
 import Event from './scenes/Event';
+import Exhibits from './scenes/Exhibits';
+import FAQ from './scenes/FAQ';
+
+import Information from './scenes/Information';
+import Map from './scenes/Map';
+
 import './styles.css';
 
 const styles = {
@@ -111,6 +117,11 @@ class LiveApp extends Component {
         <div className="container">
           <Route exact path="/" component={Schedule} />
           <Route path="/event/:eventID" component={Event} />
+          <Route path="/exhibits" component={Exhibits} />
+          <Route path="/faq" component={FAQ} />
+          <Route path="/information" component={Information} />
+          <Route path="/map" component={Map} />
+          <Route path="/schedule" component={Map} />
         </div>
       </div>
     );

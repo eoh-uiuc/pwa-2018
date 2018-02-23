@@ -3,9 +3,11 @@ import { Link } from 'react-router-dom';
 import { withStyles } from 'material-ui/styles';
 import List, { ListItem, ListItemIcon, ListItemText} from 'material-ui/List';
 import Typography from 'material-ui/Typography';
-import ScheduleIcon from 'material-ui-icons/Schedule';
-import MapIcon from 'material-ui-icons/Map';
+import ScheduleIcon from 'material-ui-icons/Event';
+import CarIcon from 'material-ui-icons/DirectionsCar';
 import BuildIcon from 'material-ui-icons/Build';
+import FAQIcon from 'material-ui-icons/HelpOutline';
+import InfoIcon from 'material-ui-icons/InfoOutline';
 
 const ListText = (props) => {
   const styles = {
@@ -58,9 +60,9 @@ const MenuList = (props) => {
 
       <ListItem button>
         <ListItemIcon>
-          <MapIcon />
+          <CarIcon />
         </ListItemIcon>
-        <ListText to="/map" text="Map" />
+        <ListText to="/map" text="Parking" />
       </ListItem>
 
       <ListItem button>
@@ -68,6 +70,20 @@ const MenuList = (props) => {
           <BuildIcon />
         </ListItemIcon>
         <ListText to="/exhibits" text="Exhibits" />
+      </ListItem>
+
+      <ListItem button>
+        <ListItemIcon>
+          <InfoIcon />
+        </ListItemIcon>
+        <ListText to="/information" text="Information" />
+      </ListItem>
+
+      <ListItem button>
+        <ListItemIcon>
+          <FAQIcon />
+        </ListItemIcon>
+        <ListText to="/faq" text="FAQ" />
       </ListItem>
     </List>
   );

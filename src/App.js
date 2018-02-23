@@ -8,6 +8,8 @@ import reducer from './services/store';
 import Countdown from './scenes/Countdown';
 import LiveApp from './scenes/LiveApp';
 
+import './widgets';
+
 import './styles/normalize.css';
 import './styles/skeleton.css';
 

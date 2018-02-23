@@ -7,10 +7,11 @@ import { setPage } from 'services/AppBar/actions';
 import './styles.css';
 
 const TimePoint = (props) => {
+  const eventID = props.eventID || 'notFound';
   return (
     <li className="work">
       <div className="relative">
-        <label><Link to="/event/hardcoded">{props.label}</Link></label>
+        <label><Link to={`/event/${eventID}`}>{props.label}</Link></label>
         <span className="date">{props.time}</span>
         <span className="circle"></span>
         <p className="location">{props.location}</p>
@@ -48,11 +49,13 @@ class Schedule extends Component {
             label="Keynote: Parisa Tabriz"
             time="5:00 PM"
             location="ECEB 1002"
+            eventID="keynote"
           />
           <TimePoint
             label="Tesla Coil Concert"
             time="8:00 PM"
             location="Bardeen Quad"
+            eventID="teslaCoilConcert"
           />
         </ul>
 
