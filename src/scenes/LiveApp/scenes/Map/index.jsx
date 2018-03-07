@@ -15,11 +15,6 @@ const Parking = [
     lng: -88.239492,
   },
   {
-    name: 'B4 Parking Garage',
-    lat: 40.115735,
-    lng: -88.224874,
-  },
-  {
     name: 'Lot B22',
     lat: 40.116024,
     lng: -88.223296,
@@ -87,16 +82,26 @@ class Map extends Component {
   render() {
     return (
       <div className="map">
-        {/*<p className="description-text">
-          Parking is available in Lot E14, B22, and parking garage B4 shown below.
-        </p>
-        <p className="description-text">
-          Tap a marker to get directions.
-        </p>*/}
         <Paper className="description-wrapper">
+          <p>Parking is available at the following locations</p>
+          <div className="parking-list">
+            <ul>
+              <li>
+                <b>Lot E14</b>
+                <div>First St. and Kirby Ave (Free)</div>
+              </li>
+              <li>
+                <b>Lot B22</b>
+                <div>Goodwin Ave. and University Ave (Free)</div>
+              </li>
+              <li>
+                <b>JSM Apartments</b>
+                <div>Wright St. and Healey St. (1$/hour)</div>
+              </li>
+            </ul>
+          </div>
           <p>
-            Parking is available in Lot E14, B22, and parking garage B4 shown
-            below. Tap a marker to get directions.
+            Parking lots are shown below. Tap a marker to get directions.
           </p>
         </Paper>
         <GMapContainer

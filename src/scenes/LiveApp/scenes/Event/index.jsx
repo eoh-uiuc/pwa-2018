@@ -45,7 +45,7 @@ class Event extends Component {
       <div className="event">
         <h2 className="title">{eventData.title}</h2>
         <h6 className="info">{eventData.time} | {eventData.location}</h6>
-        <img className="event-img" src={require(`assets/${eventData.image}`)} alt="Parisa" />
+        { eventData.image && <img className="event-img" src={require(`assets/${eventData.image}`)} alt="EOH Event" /> }
 
         <p className="body">
           {eventData.body}

@@ -67,18 +67,18 @@ class LiveApp extends Component {
     let icon = (
       <MenuIcon
         className="menu-icon"
-        onClick={() => this.toggleDrawer(true)}
       />
     );
+    let iconFn = () => this.toggleDrawer(true);
 
     if (this.props.showBackArrow) {
       const { history, backArrowTo } = this.props;
       icon = (
         <BackIcon
           className="menu-icon"
-          onClick={() => history.push(backArrowTo)}
         />
       );
+      iconFn = () => history.push(backArrowTo);
     }
 
     return (
@@ -105,6 +105,7 @@ class LiveApp extends Component {
                 root: classes.iconRoot
               }}
               aria-label="open drawer"
+              onClick={iconFn}
             >
               {icon}
             </IconButton>

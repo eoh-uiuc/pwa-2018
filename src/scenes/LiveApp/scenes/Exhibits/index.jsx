@@ -19,14 +19,19 @@ class GMap extends Component {
   render() {
     const { history } = this.props;
 
-    let lats = Buildings.map((b) => b.lat);
-    let lngs = Buildings.map((b) => b.lng);
-    let latC = (Math.max(...lats) + Math.min(...lats)) / 2;
-    let lngC = (Math.max(...lngs) + Math.min(...lngs)) / 2;
+    // let lats = Buildings.map((b) => b.lat);
+    // let lngs = Buildings.map((b) => b.lng);
+    // let latC = (Math.max(...lats) + Math.min(...lats)) / 2;
+    // let lngC = (Math.max(...lngs) + Math.min(...lngs)) / 2;
+    // const center = {
+    //   lat: latC,
+    //   lng: lngC,
+    // };
+
     const center = {
-      lat: latC,
-      lng: lngC,
-    };
+      lat: 40.113201,
+      lng: -88.22588,
+    }
 
     const markers = Buildings.map((p) => {
       return (
@@ -42,7 +47,7 @@ class GMap extends Component {
     return (
       <div>
         <GoogleMap
-          defaultZoom={16.0}
+          defaultZoom={16.1}
           defaultCenter={center}
         >
           { markers }
@@ -65,7 +70,7 @@ class Exhibits extends Component {
         <Paper className="description-wrapper">
           <p className="description-text">
             Exhibits are held at multiple buildings throughout the engineering
-            campus. Tap the markers below to see what is happening at each
+            campus. Tap the markers below to see what exhibits are at each
             building.
           </p>
         </Paper>

@@ -1,0 +1,1936 @@
+{
+  "talbot": [
+    {
+      "ID": 0,
+      "Exhibit Name": "Illinois Robotics in Space",
+      "Exhibit Description": "An exhibition of the current robot designed by Illinois Robotics in Space for this year’s robotic mining competition.",
+      "URL": "https://m.facebook.com/IllinoisRoboticsInSpace/",
+      "Building": "Talbot Lab",
+      "Room": "18C"
+    },
+    {
+      "ID": 2,
+      "Exhibit Name": "Student Space Systems",
+      "Exhibit Description": "A group of students building high power rockets with the goal of getting to space",
+      "URL": "http://studentspacesystems.org",
+      "Building": "Talbot Lab",
+      "Room": "Basement"
+    },
+    {
+      "ID": 8,
+      "Exhibit Name": "Balloon Rocket Races",
+      "Exhibit Description": "Come learn about rocket propulsion with Women in Aerospace by challenging your friends to a balloon rocket race.",
+      "URL": "http://illinoiswia.weebly.com",
+      "Building": "Talbot Lab",
+      "Room": 105
+    },
+    {
+      "ID": 11,
+      "Exhibit Name": "Candy Airplane Demo",
+      "Exhibit Description": "The exhibitors will show children how to construct and candy airplane with smarties, laffy taffy, mints, gum, and a rubber band.",
+      "URL": "http://sab.ae.illinois.edu/",
+      "Building": "Talbot Lab",
+      "Room": "Basement"
+    },
+    {
+      "ID": 18,
+      "Exhibit Name": "American Nuclear Society",
+      "Exhibit Description": "A presentation of projects and demonstrations representing the different facets and interests of students involved in the American Nuclear Society.  Projects demonstrate different exciting aspects of nuclear science and engineering!",
+      "URL": "http://ans.npre.illinois.edu/",
+      "Building": "Talbot Lab",
+      "Room": "220A"
+    },
+    {
+      "ID": 34,
+      "Exhibit Name": "SatDev's World of Whimsy",
+      "Exhibit Description": "Lab tour of satellite development area and liquid nitrogen yogurt pops!",
+      "URL": "http://satdev.ae.illinois.edu",
+      "Building": "Talbot Lab",
+      "Room": 206
+    },
+    {
+      "ID": 39,
+      "Exhibit Name": "Zenith Display",
+      "Exhibit Description": "We would like to bring the fuselage of the Zenith plane we are building to display in Talbot",
+      "URL": "http://sab.ae.illinois.edu/",
+      "Building": "Talbot Lab",
+      "Room": "18A"
+    },
+    {
+      "ID": 40,
+      "Exhibit Name": "Riveting",
+      "Exhibit Description": "People will have the opportunity to rivet pre-cut sheet metal with either a hand tool or compressed air. Both methods are very safe, and we have done this exhibit for 2 years with no incidents. We will have experienced builders there to supervise.",
+      "URL": "http://sab.ae.illinois.edu/",
+      "Building": "Talbot Lab",
+      "Room": "Basement"
+    },
+    {
+      "ID": 55,
+      "Exhibit Name": "Orbital Simulation and Tech Exhibit",
+      "Exhibit Description": "Using marbles and a large black sheet stretched taut over a large circular area kids are allowed to learn about how orbits work and the effects of gravity on planets and other space junk. Also set up in the room will be posters explaining the Illinois Space Society's technical projects and other society goals. Previous projects will be brought in for viewing including mining tools, high powered rockets, and videos of CAD design work.",
+      "URL": "http://iss.ae.illinois.edu/educational-outreach/",
+      "Building": "Talbot Lab",
+      "Room": 105
+    },
+    {
+      "ID": 69,
+      "Exhibit Name": "3D Printable RC Airplane",
+      "Exhibit Description": "An RC airplane that was designed by UIUC students, 3D printed by parts, and assembled.",
+      "URL": "http://aiaa.ae.illinois.edu/tech-projects/",
+      "Building": "Talbot Lab",
+      "Room": "Lawn"
+    },
+    {
+      "ID": 76,
+      "Exhibit Name": "Illini Aerospace Outreach",
+      "Exhibit Description": "Learn about aerospace engineering through demonstrations using Wind Tunnels, fancopters and other small activities. Check out our three engines donated by Rolls-Royce and learn more about how they work.",
+      "URL": "http://outreach.aerospace.Illinois.edu",
+      "Building": "Talbot Lab",
+      "Room": "Basement"
+    },
+    {
+      "ID": 144,
+      "Exhibit Name": "Women in Nuclear (WIN)",
+      "Exhibit Description": "unofficial description: WIN members give a presentation dispelling some common misconceptions about nuclear energy and show its importance in our daily lives!",
+      "URL": "http://none",
+      "Building": "Talbot Lab",
+      "Room": "225A"
+    },
+    {
+      "ID": 148,
+      "Exhibit Name": "Illinois Robotics in Space (IRIS)",
+      "Exhibit Description": "IRIS will be demonstrating the dissection of our autonomy and path planning algorithms by displaying what our robot actually sees. From there, we will display our robot with limited mobility (I.e.: no driving, but several moving parts).",
+      "URL": "http://iris.ae.illinois.edu/outreach/, https://www.facebook.com/IllinoisRoboticsInSpace/",
+      "Building": "Talbot Lab",
+      "Room": "201?"
+    },
+    {
+      "ID": 166,
+      "Exhibit Name": "Virtual Education Research Laboratory",
+      "Exhibit Description": "See how VR and 3D modeling can be used in education and training by playing virtual reality games and learning about radioactivity.",
+      "URL": "http://verl.npre.illinois.edu",
+      "Building": "Talbot Lab",
+      "Room": 135
+    }
+  ],
+  "ehall": [
+    {
+      "ID": 1,
+      "Exhibit Name": "Rube Goldberg Machine",
+      "Exhibit Description": "This year's Rube Goldberg machine is Pirate themed. Come see our 9'x6'x6' machine pour a bowl of cereal in the most inefficient way imaginable!",
+      "URL": "https://www.facebook.com/IllinoisRGS/",
+      "Building": "Engineering Hall",
+      "Room": "106B3"
+    },
+    {
+      "ID": 16,
+      "Exhibit Name": "Weather Wonders Exhibit",
+      "Exhibit Description": "We are a weather club and will conduct demonstrations that show various weather phenomena/concepts at work.",
+      "URL": "https://publish.illinois.edu/amsatuiuc/",
+      "Building": "Engineering Hall",
+      "Room": "106B8"
+    },
+    {
+      "ID": 25,
+      "Exhibit Name": "Theta Claw",
+      "Exhibit Description": "Arcade style, Arduino controlled robot arm. Participants attempt to pick and place as many items into a ‘goal’ zone as they can in the allotted time. Active leaderboard for the high score and a grand prize at the end of the day.",
+      "URL": "http://kappathetatau.org",
+      "Building": "Engineering Hall",
+      "Room": "1st floor hallway"
+    },
+    {
+      "ID": 32,
+      "Exhibit Name": "Hot and Cold Chemistry!",
+      "Exhibit Description": "Why do some chemical reactions feel hot while others feel cold?  How do hot packs and cold packs actually work? Come explore these questions and many more with the REACT program as we dive into hot and cold chemistry!  Stop by for lots of hands-on experiments as well as a few demonstrations that might make a flashy appearance!",
+      "URL": "https://www.facebook.com/REACTprogram.illinois.edu/",
+      "Building": "Engineering Hall",
+      "Room": "106B6"
+    },
+    {
+      "ID": 35,
+      "Exhibit Name": "NSBE UIUC",
+      "Exhibit Description": "In progress",
+      "URL": "http://nsbeuiucinfoserv.wixsite.com",
+      "Building": "Engineering Hall",
+      "Room": "103B3"
+    },
+    {
+      "ID": 54,
+      "Exhibit Name": "Liquid Nitrogen and Space Shuttle Tile Demo",
+      "Exhibit Description": "The goal of this demo is to provide students with overarching explanation of the different temperatures encountered in space travel. Liquid nitrogen is used to show what happens in extremely cold temperatures, and a real space shuttle tile is heated to show the thermal insulating capabilities of certain materials and protective gear used for astronauts.",
+      "URL": "http://iss.ae.illinois.edu/educational-outreach/",
+      "Building": "Engineering Hall",
+      "Room": "106B1"
+    },
+    {
+      "ID": 110,
+      "Exhibit Name": "Engineers Without Borders",
+      "Exhibit Description": "The Engineers Without Borders Exhibit will be focus on the concept of using engineering to help international communities in need. Similar to last years exhibit, we will have posters displaying information on the need for clean water and other resources across the world. We will have small activities for people to participate in, such as guessing what water is actually drinkable, and constructing a small bridge, made out of paper, that holds pennies. These activities will reflect on the real life work that Engineers Without Borders does to help people- such as building bridges in Malawi or helping people in Guatemala get clean water.",
+      "URL": "https://ewbusauiuc.wordpress.com/",
+      "Building": "Engineering Hall",
+      "Room": "106B6"
+    },
+    {
+      "ID": 155,
+      "Exhibit Name": "Smart Prosthetic Arm",
+      "Exhibit Description": "Smart Prosthetic Arm is to be used by those who are incapable of physically moving their arms. We thought that an EEG controlled device would be most adequate to allow remote control of the hand.",
+      "URL": "https://www.facebook.com/KSEA.IllinoisYG/",
+      "Building": "Engineering Hall",
+      "Room": "106B3"
+    },
+    {
+      "ID": 160,
+      "Exhibit Name": "Virtision.com",
+      "Exhibit Description": "Set up VR tour of your property in 5 minutes. Let people decorate, and share it in 5 minutes.",
+      "URL": "http://virtision.com",
+      "Building": "Engineering Hall",
+      "Room": "1st floor hallway"
+    },
+    {
+      "ID": 190,
+      "Exhibit Name": "Boat Engineering",
+      "Exhibit Description": "Our team will inform the audience of boat engineering.  It will go in depth into the values of different boat prices the pros and cons to each one.  Then to incorporate the business aspect we will be talking about trying to stay in budget.  To teach that engineers and businessmen/women have to work together to create a project.",
+      "URL": "http://nobeillinois.com/#/",
+      "Building": "Engineering Hall",
+      "Room": "106B8"
+    },
+    {
+      "ID": 197,
+      "Exhibit Name": "Potential official App for Engineering Student in UIUC",
+      "Exhibit Description": "We've created an app which has a lot of features that can help students especially Chinese students gain information about life in school more conveniently. This features includes Restaurant Recommendation, Bus Schedule, Job Info, EWS Status. The app is called Uni-corn and its available on both iOS and Android.",
+      "URL": "http://cesaatuiuc.web.engr.illinois.edu",
+      "Building": "Engineering Hall",
+      "Room": "106B3"
+    },
+    {
+      "ID": 208,
+      "Exhibit Name": "Optimal IoT Control in the Smart Home",
+      "Exhibit Description": "Internet of Things automation and optimization using Amazon Alexa to turn on home appliances, such as a dishwasher, at the most cost efficient hour for power consumption",
+      "URL": "https://ise.illinois.edu/undergraduate/research-experience/index.html",
+      "Building": "Engineering Hall",
+      "Room": "106B6"
+    }
+  ],
+  "observatory": [
+    {
+      "ID": 3,
+      "Exhibit Name": "Observatory Open House",
+      "Exhibit Description": "Solar Observing at the U of I Campus Observatory",
+      "URL": "http://uias.astro.illinois.edu/",
+      "Building": "Observatory",
+      "Room": "128, dome"
+    }
+  ],
+  "eceb": [
+    {
+      "ID": 4,
+      "Exhibit Name": "ECE 110/120 Honors Section",
+      "Exhibit Description": "Freshmen students design personal projects in the honors section for ECE 110 and ECE 120.",
+      "URL": "https://wiki.illinois.edu//wiki/display/ECE110HLSF15/Syllabus",
+      "Building": "ECEB",
+      "Room": "2nd floor bridge"
+    },
+    {
+      "ID": 5,
+      "Exhibit Name": "ECE Student Projects in ADSL",
+      "Exhibit Description": "Students are working on robots, musical instruments, audio processors, arcade games, and more!!  Talk with students working on their dreams!  And check out past projects, like Martin Eberhard's \"Touring Machine\" -- his first electric vehicle that he built in ADSL, before he created the Tesla Roadster.",
+      "URL": "https://ece.illinois.edu/academics/courses/profile/ECE395",
+      "Building": "ECEB",
+      "Room": 2076
+    },
+    {
+      "ID": 9,
+      "Exhibit Name": "Eta Kappa Nu",
+      "Exhibit Description": "Eta Kappa Nu (HKN), ECE Honor Society. We encourage excellence in the field of Electrical and Computer Engineering",
+      "URL": "http://hkn.illinois.edu/",
+      "Building": "ECEB",
+      "Room": "2nd floor bridge"
+    },
+    {
+      "ID": 13,
+      "Exhibit Name": "Illinois Solar Decathlon",
+      "Exhibit Description": "Illinois Solar Decathlon is giving tours of a net zero energy solar homes! Come and learn about how students created an emergency home that runs off of sustainable energy.",
+      "URL": "http://solardecathlon.illinois.edu/",
+      "Building": "ECEB",
+      "Room": "Lobby"
+    },
+    {
+      "ID": 30,
+      "Exhibit Name": "Candy Sorter V1.9.85",
+      "Exhibit Description": "Using an Arduino, RGB Color Sensor, and servo motors the robot sorts M&Ms by color. The robot asks the user for a specific color then dispenses such color.",
+      "URL": "http://shpe.engr.illinois.edu/",
+      "Building": "ECEB",
+      "Room": "Lobby"
+    },
+    {
+      "ID": 74,
+      "Exhibit Name": "Serenity In Motion",
+      "Exhibit Description": "We are designing a gesture controlled quadcopter from ground up. It runs on raspberry pi and is controlled via a gauntlet with RF tags.",
+      "URL": "http://wece.ece.illinois.edu",
+      "Building": "ECEB",
+      "Room": "Quad (weather permitting)"
+    },
+    {
+      "ID": 99,
+      "Exhibit Name": "SWE Team Tech",
+      "Exhibit Description": "This exhibit showcases a state-of-the-art application that SWE Team Tech has curated for Caterpillar technicians in order to enhance the process of machine maintenance. The application provides a responsive interface for the technicians to remotely access real-time data of individual machines and efficiently pinpoint the exact cause of a reduction in performance.",
+      "URL": "https://www.societyofwomenengineers.illinois.edu/",
+      "Building": "ECEB",
+      "Room": "Lobby"
+    },
+    {
+      "ID": 104,
+      "Exhibit Name": "Power and Energy Systems",
+      "Exhibit Description": "The Power and Energy Systems group at the University of Illinois proudly presents several exhibits each year at Engineering Open House to demonstrate the fundamental aspects of our field. This year we will be presenting nine projects, four of which are described in detail below:\n\n1) Magnetic Ring Canon - The magnetic ring cannons use electromagnetic induction to launch aluminum rings across the room towards a foam target. Visitors will line up to take turns actuating the cannon while trained student exhibit volunteers load and retrieve the rings.\n\n2) Solar Tracking - This project shows that a solar panel that can track the sun will generate more power over the course of day than a fixed panel.  A desk lamp can simulate the sun by moving it in an arc over the demo like the sun moves across the sky through a typical day. The visitors will then compare the power outputs of a fixed and a tracking solar panels.\n\n3) Floating Frying Pan - Using electromagnetic induction, an aluminum frying pan is levitated above a table made of multiple, concentric coils driven by an inverter. As a byproduct of levitation, the induced currents heat up the pan, teaching about resistive losses, and enabling us to make rice crispy treats.\n\n4) Exercise Bike Generator - In this dynamic, interactive, and highly tangible exhibit, visitors peddle an exercise bike that through the coupling of a DC electric motor generates power to light up light-bulbs of various types. This demonstrates how physical effort can be related to power as well as the power requirements for various different light sources.\n\nWe will also be presenting a Linear Induction Machine, Dirod, Coil Gun, and much much more! \n\nIn addition to Power and Energy exhibits, POETS will be presenting projects that demonstrate the importance of interdisciplinary work in engineering. The NSF Engineering Research Center for Power Optimization for Electro-Thermal Systems (POETS) is led by the University of Illinois at Urbana-Champaign in partnership with Howard University, Stanford University and the University of Arkansas.  POETS' goal is to enable the manufacture of lighter, more compact and more efficient power electronic systems for cars, airplanes and other mobile applications. In short, the ERC aims to pack more power into less space for electrical technologies by integrating novel 3-D cooling circuitry, power converters and algorithms for smart power management.\n\nCome by and see what Power and Energy and POETS are all about!",
+      "URL": "https://www.ieee.org/index.html",
+      "Building": "ECEB",
+      "Room": "4022, 4024, 4026"
+    },
+    {
+      "ID": 139,
+      "Exhibit Name": "Bio-inspired swarm robots",
+      "Exhibit Description": "Inspired by golden shiner fish, a swarm of 100 small robots use collective intelligence to identify and navigate to the target area",
+      "URL": "http://gracegao.ae.illinois.edu",
+      "Building": "ECEB",
+      "Room": "Lobby"
+    },
+    {
+      "ID": 143,
+      "Exhibit Name": "Unmanned Aerial Vehicle Navigation Using LiDAR",
+      "Exhibit Description": "Come and see how UAVs perceive the environment and navigate around obstacles",
+      "URL": "http://gracegao.ae.illinois.edu",
+      "Building": "ECEB",
+      "Room": "Lobby"
+    },
+    {
+      "ID": 145,
+      "Exhibit Name": "Virtual Jazz Orchestra",
+      "Exhibit Description": "A virtual jazz big band a la Count Basie is created using the Haken Continuum Fingerboard and custom software by Mark Smart.",
+      "URL": "http://www.virtualjazzorchestra.com",
+      "Building": "ECEB",
+      "Room": "2nd floor bridge"
+    },
+    {
+      "ID": 158,
+      "Exhibit Name": "LED Audio Visualizer",
+      "Exhibit Description": "Visualizes the frequency content of sound and music using a colorful LED matrix and an Arduino connected to a laptop.",
+      "URL": "http://sigphis.org/",
+      "Building": "ECEB",
+      "Room": "Lobby"
+    },
+    {
+      "ID": 164,
+      "Exhibit Name": "Phone Signal Hunter",
+      "Exhibit Description": "We will demonstrate a radio that can capture radio frequency signals on a computer monitor in real-time. Visitors can participate in the demo in two ways. They can move the antenna around to see how do signals change based on the locations. They will also be able to tune the radio through a knob to see signals at different frequencies. Through this demo, visitors hopefully will aware the existence of our radio spectrum as well as how radio works.",
+      "URL": "#",
+      "Building": "ECEB",
+      "Room": "Lobby"
+    },
+    {
+      "ID": 181,
+      "Exhibit Name": "Artificial Intelligence on a Microchip",
+      "Exhibit Description": "Artificial intelligence (AI) has begun to pervade our lives with machines being able to process large volumes of data, make decisions, provide suggestions and recommendations. However, such machines consume a lot of energy in order to exhibit intelligent behavior. This is why today’s AI resides primarily in the cloud where \nthe supply of energy is unlimited. In contrast, sensory platforms such as cell-phones, wearables, drones, lap-tops, autonomous robots, and driverless cars all need AI to be realized on-site in order to meet real-time constraints and for privacy reasons. However, such platforms have limited energy supply, and requires realizing AI functions on a microchip (also known as an integrated circuit (IC)) with minimum energy consumption. This exhibit will introduce the basic principles underlying AI and microchips via posters and demonstration of AI functionality via recently designed microchips in our group.",
+      "URL": "http://shanbhag.ece.illinois.edu/",
+      "Building": "ECEB",
+      "Room": "Lobby"
+    },
+    {
+      "ID": 187,
+      "Exhibit Name": "ECE Student Advancement Committee EOH Exhibit",
+      "Exhibit Description": "ECE Major exhibition through ECE Student Advancement Committee",
+      "URL": "http://sac.ece.illinois.edu/",
+      "Building": "ECEB",
+      "Room": "Lobby"
+    },
+    {
+      "ID": 191,
+      "Exhibit Name": "HKN EOH Project Showcase",
+      "Exhibit Description": "HKN project showcasing the cool applications of engineering",
+      "URL": "http://etakappanu.web.engr.illinois.edu",
+      "Building": "ECEB",
+      "Room": "2nd floor bridge"
+    },
+    {
+      "ID": 196,
+      "Exhibit Name": "Illini RoboMaster",
+      "Exhibit Description": "Illini RoboMaster (iRM) is a Registered Student Organization at UIUC, consisiting of a group of young engineers who believes that robotics will be the powerful way to build the future. The group aims to not only compete in the annual robotics competition hold by DJI but also to provide a place for students to discuss and learn about latest science and technology. \n\nIn this EOH, we provide you an immersive shooting experience while you are actually staying in a very safe place. With the help of Virtual Reality headset, you are thrust into the turret view of our robot. By simply turning your head, the turret will synchronize to correct position and shoot onto our protective screen as soon as you click the trigger.",
+      "URL": "https://www.robomaster.com/en-US",
+      "Building": "ECEB",
+      "Room": "Lobby"
+    },
+    {
+      "ID": 200,
+      "Exhibit Name": "Arduino-Controlled Analog Synthesizer",
+      "Exhibit Description": "The exhibit will feature a fully analog synthesizer controlled by an Arduino Mega. Visitors will learn basic concepts related to audio synthesis (such as how speakers work), circuit design, coding, signal processing, and sound design",
+      "URL": "#",
+      "Building": "ECEB",
+      "Room": "Lobby"
+    },
+    {
+      "ID": 203,
+      "Exhibit Name": "Drone Racing",
+      "Exhibit Description": "Drone Racing",
+      "URL": "#",
+      "Building": "ECEB Quad",
+      "Room": "Quad btwn MNTL and Newmark"
+    },
+    {
+      "ID": 206,
+      "Exhibit Name": "Web Accessibility Testing Engines",
+      "Exhibit Description": "Presenting work on modern tools and technical specifications for testing accessibility of web browsers and documents",
+      "URL": "https://www.disability.illinois.edu/academic-support/aitg",
+      "Building": "ECEB",
+      "Room": "Lobby"
+    },
+    {
+      "ID": 211,
+      "Exhibit Name": "Hang printer",
+      "Exhibit Description": "A large scale 3d printer using high tension string as a means of motion and intended to be hanging from a ceiling or similar surface",
+      "URL": "https://ieee.illinois.edu/",
+      "Building": "ECEB",
+      "Room": "Lobby"
+    },
+    {
+      "ID": 212,
+      "Exhibit Name": "HydroCyclones",
+      "Exhibit Description": "The drainage of water from an outlet is a wonderful phenomenon to observe. Pull the plug on a tub full of water and suddenly the water surface comes alive. \nBut what if the angular velocity of the drain could be used to generate electricity. A turbine attached to a generator could be rotated to convert the kinetic energy of the water into feasible electrical output.",
+      "URL": "https://ieee.illinois.edu/",
+      "Building": "ECEB",
+      "Room": "Lobby"
+    },
+    {
+      "ID": 213,
+      "Exhibit Name": "Electric Skateboard",
+      "Exhibit Description": "Electric Skateboard with forward and backward capabilities, and automatic turn and break signals made from a fraction of the actual cost/",
+      "URL": "https://ieee.illinois.edu/",
+      "Building": "ECEB",
+      "Room": "Lobby"
+    }
+  ],
+  "grainger": [
+    {
+      "ID": 6,
+      "Exhibit Name": "Illini Formula Electric",
+      "Exhibit Description": "Illini Formula Electric (IFE) is an engineering RSO that designs and builds a fully-electric formula-style racecar each year to compete in an international collegiate competition in Lincoln, NE hosted by the Society of Automotive Engineers. After placing 4th in endurance and 7th in autocross in 2017, we are aiming to be a top 5 finisher out of the 30 electric teams at the competition this year.",
+      "URL": "http://www.illiniformulaelectric.com",
+      "Building": "Grainger Loading Dock",
+      "Room": "Grainger Loading Dock"
+    },
+    {
+      "ID": 12,
+      "Exhibit Name": "Off-Road Illini BAJA SAE",
+      "Exhibit Description": "We would like to show off our 2017 - 2018 BAJA SAE vehicle at EOH. This is a spectacular way for us to show off our RSO and the type of vehicles we design, build, and race.",
+      "URL": "http://offroadillini.mechse.illinois.edu",
+      "Building": "Grainger Loading Dock",
+      "Room": "Grainger Loading Dock"
+    },
+    {
+      "ID": 14,
+      "Exhibit Name": "Illini Solar Car",
+      "Exhibit Description": "Come see Argo - a road-legal solar-electric vehicle and Illini Solar Car's first car! Last October Argo crossed the Australian Outback at the Bridgestone World Solar Challenge against top teams from around the world. This July Argo will follow the Oregon Trail for 1800 miles at the American Solar Challenge!",
+      "URL": "http://www.illinisolarcar.com",
+      "Building": "Grainger Loading Dock",
+      "Room": "Grainger Loading Dock"
+    },
+    {
+      "ID": 61,
+      "Exhibit Name": "Illini Pullers",
+      "Exhibit Description": "Quarter Scale Tractor Pulling Club",
+      "URL": "https://www.illinipullers.com/",
+      "Building": "Grainger Loading Dock",
+      "Room": "Grainger Loading Dock"
+    },
+    {
+      "ID": 79,
+      "Exhibit Name": "Eco Illini Supermileage",
+      "Exhibit Description": "Display of Supermileage vehicle that achieved 1000 mpg.",
+      "URL": "https://ecoillini.wordpress.com/",
+      "Building": "Grainger Loading Dock",
+      "Room": "Grainger Loading Dock"
+    },
+    {
+      "ID": 83,
+      "Exhibit Name": "Illini Ecoconcept",
+      "Exhibit Description": "We constructed a battery powered car to compete in the Shell Ecomarathon's fuel efficiency competition.",
+      "URL": "https://illiniecoconcept.engr.illinois.edu/",
+      "Building": "Grainger Loading Dock",
+      "Room": "Grainger Loading Dock"
+    },
+    {
+      "ID": 192,
+      "Exhibit Name": "ESPL Demonstration Track",
+      "Exhibit Description": "A showcase for vehicles built and designed by engineering student teams for international competitions. Laps driven by an electric and gas racecar, a Baja off-road vehicle, a super-mileage vehicle, an electric concept car, a tractor pull, and a solar powered vehicle. After laps, time for pictures and team members can answer questions.",
+      "URL": "https://publish.illinois.edu/uiuc-espl/",
+      "Building": "Grainger Loading Dock",
+      "Room": "Grainger Loading Dock"
+    }
+  ],
+  "newmark": [
+    {
+      "ID": 7,
+      "Exhibit Name": "Tower of Indeterminacy",
+      "Exhibit Description": "We make a giant Jenga tower and learn about what makes block sliding easier.",
+      "URL": "https://publish.illinois.edu/americansocietyofcivilengineers/asce/",
+      "Building": "Newmark Building",
+      "Room": "Crane Bay"
+    },
+    {
+      "ID": 10,
+      "Exhibit Name": "Stoplight Reaction",
+      "Exhibit Description": "We will have a set up that will see how fast you can react to a stoplight. It will consist of a traffic light, and a volunteer will have to see how fast they can hit the brakes when the stoplight turns red.",
+      "URL": "https://iteuiuc.wordpress.com/",
+      "Building": "Newmark Building",
+      "Room": "Crane Bay"
+    },
+    {
+      "ID": 17,
+      "Exhibit Name": "Illinois Center for Transportation",
+      "Exhibit Description": "Advancement in Pavement Technology",
+      "URL": "https://apps.ict.illinois.edu",
+      "Building": "Newmark Building",
+      "Room": "Crane Bay"
+    },
+    {
+      "ID": 44,
+      "Exhibit Name": "Rail Extravaganza! - Intermodal game",
+      "Exhibit Description": "Learn about containers transportation while playing a competitive game! Ages 4 and over are welcome.",
+      "URL": "http://publish.illinois.edu/aremachapter/",
+      "Building": "Newmark Building",
+      "Room": "Crane Bay"
+    },
+    {
+      "ID": 45,
+      "Exhibit Name": "Rail Extravaganza! - Locomotive Simulator",
+      "Exhibit Description": "Have you ever wondered what it is like to operate a train? Come and find out with our real train simulator!",
+      "URL": "http://publish.illinois.edu/aremachapter/",
+      "Building": "Newmark Building",
+      "Room": "Crane Bay"
+    },
+    {
+      "ID": 46,
+      "Exhibit Name": "Rail Extravaganza! - JR Central High-Speed Maglev Trains",
+      "Exhibit Description": "Come learn about flying trains! Central Japan Railway Company shows their maglev model and teaches about magnetic levitation.",
+      "URL": "http://publish.illinois.edu/aremachapter/",
+      "Building": "Newmark Building",
+      "Room": 1233
+    },
+    {
+      "ID": 47,
+      "Exhibit Name": "Rail Extravaganza! - Railroad Track Panel",
+      "Exhibit Description": "Real track components and tools are displayed and explained in detail by expert UIUC students.",
+      "URL": "http://publish.illinois.edu/aremachapter/",
+      "Building": "Newmark Building",
+      "Room": "Crane Bay"
+    },
+    {
+      "ID": 48,
+      "Exhibit Name": "Rail Extravaganza! - Track Circuits and Signals",
+      "Exhibit Description": "UIUC students demonstrate how track signals and circuits work with an LED track model!",
+      "URL": "http://publish.illinois.edu/aremachapter/",
+      "Building": "Newmark Building",
+      "Room": "Crane Bay"
+    },
+    {
+      "ID": 49,
+      "Exhibit Name": "Rail Extravaganza! - Happy Trains!",
+      "Exhibit Description": "A perfect stop for young kids to craft paper trains and find out what’s inside a train by playing our railroad puzzle.",
+      "URL": "http://publish.illinois.edu/aremachapter/",
+      "Building": "Newmark Building",
+      "Room": "Crane Bay"
+    },
+    {
+      "ID": 50,
+      "Exhibit Name": "Rail Extravaganza! - Meet a Railroader: CN Railway Traffic Control",
+      "Exhibit Description": "Experienced railroaders from Canadian National share their stories and display a live look at their amazing train dispatching and track signaling system.",
+      "URL": "http://publish.illinois.edu/aremachapter/",
+      "Building": "Newmark Building",
+      "Room": "Crane Bay"
+    },
+    {
+      "ID": 52,
+      "Exhibit Name": "Water table depletion",
+      "Exhibit Description": "The demonstration contains a model of a water table which we will create using a tank filled with sand and water. We will add a food coloring so the water is visible. We will use pipettes or tubing as 'wells' to demonstrate how extraction of water leads to the depletion of the water table, and that future wells and pumps need to be deeper to access the water.",
+      "URL": "https://publish.illinois.edu/wef-awwa-uiuc/",
+      "Building": "Newmark Building",
+      "Room": "Crane Bay"
+    },
+    {
+      "ID": 58,
+      "Exhibit Name": "Concrete Coaster",
+      "Exhibit Description": "Anyone can mix, design, and make their own coaster out of concrete in 20 minutes.",
+      "URL": "https://publish.illinois.edu/americanconcreteinstitute/",
+      "Building": "Newmark Building",
+      "Room": "Crane Bay"
+    },
+    {
+      "ID": 59,
+      "Exhibit Name": "High Strength Concrete Testing",
+      "Exhibit Description": "Trained ACI members break high-strength concrete cylinders in Crane Bay every 15 to 20 min.",
+      "URL": "https://publish.illinois.edu/americanconcreteinstitute/",
+      "Building": "Newmark Building",
+      "Room": "Crane Bay"
+    },
+    {
+      "ID": 60,
+      "Exhibit Name": "Permeable concrete",
+      "Exhibit Description": "Does water go through concrete?  Pour it yourself and find out!",
+      "URL": "https://publish.illinois.edu/americanconcreteinstitute/",
+      "Building": "Newmark Building",
+      "Room": "Crane Bay"
+    },
+    {
+      "ID": 90,
+      "Exhibit Name": "Liquefaction/Quicksand tank",
+      "Exhibit Description": "A quicksand tank that sends objects spiraling towards their doom",
+      "URL": "https://publish.illinois.edu/geotechnique/geso/",
+      "Building": "Newmark Building",
+      "Room": "Crane Bay"
+    },
+    {
+      "ID": 91,
+      "Exhibit Name": "Shake-n-Quake Simulations",
+      "Exhibit Description": "The exhibit will be an interactive earthquake simulation. Visitors will have the opportunity to construct a structure, e.g. a simple building/bridge model, with basic materials like tinker toys and then place them on a shake table used for earthquake wave simulations. From the exhibit, visitors can learn about the impact of an earthquake on common structures, and how to build a strong structure against earthquake damage.",
+      "URL": "http://www.facebook.com/uiuc.eeri/",
+      "Building": "Newmark Building",
+      "Room": "Crane Bay"
+    },
+    {
+      "ID": 140,
+      "Exhibit Name": "Perception Reaction",
+      "Exhibit Description": "This exhibit will feature a perception reaction device, allowing participants to test how fast they can step on the brakes of their vehicle if presented with an obstacle they need to stop for in the road.",
+      "URL": "https://iteuiuc.wordpress.com/",
+      "Building": "Newmark Building",
+      "Room": "Crane Bay"
+    },
+    {
+      "ID": 147,
+      "Exhibit Name": "SEA",
+      "Exhibit Description": "We will present how to build Lego buildings to the children. We will then test them on a small shake table",
+      "URL": "https://sites.google.com/site/seauofi/",
+      "Building": "Newmark Building",
+      "Room": "Crane Bay"
+    }
+  ],
+  "mseb": [
+    {
+      "ID": 15,
+      "Exhibit Name": "Craning it to the next level!",
+      "Exhibit Description": "Children grades 2-5 will be working on a 6 week project to build the strongest cranes, competing against each other to lift the most weight, use the mose creative materials and build tallest crane.",
+      "URL": "http://uiuceos.wordpress.com",
+      "Building": "MSEB",
+      "Room": 100
+    },
+    {
+      "ID": 20,
+      "Exhibit Name": "Sounds of Science",
+      "Exhibit Description": "Why do you hear an echo in an empty room? Why does an auditorium not echo like a normal room? It all has to do with sound energy absorption! Come to our exhibit to explore acoustic properties of materials of different chemical compositions, structure, and shape.",
+      "URL": "http://None",
+      "Building": "MSEB",
+      "Room": "1st floor hallway"
+    },
+    {
+      "ID": 21,
+      "Exhibit Name": "Melting Metals",
+      "Exhibit Description": "Watch metals melt before your very eyes in this mind-mending presentation on phase changes.",
+      "URL": "#",
+      "Building": "MSEB",
+      "Room": "1st floor hallway"
+    },
+    {
+      "ID": 22,
+      "Exhibit Name": "Hydrophobic Materials: Water You Afraid Of?",
+      "Exhibit Description": "What if you could make a substance that never gets wet? Come learn about hydrophobic and hydrophilic materials and see them in action in our interactive demos!",
+      "URL": "#",
+      "Building": "MSEB",
+      "Room": "1st floor hallway"
+    },
+    {
+      "ID": 23,
+      "Exhibit Name": "The Mechanics of Cold Working",
+      "Exhibit Description": "Show how cold working different metals affects their strength, and why that is.",
+      "URL": "#",
+      "Building": "MSEB",
+      "Room": 119
+    },
+    {
+      "ID": 26,
+      "Exhibit Name": "Playing with Polymers",
+      "Exhibit Description": "Shows the change in a polymer's properties when temperature is changed.",
+      "URL": "https://matse.illinois.edu/",
+      "Building": "MSEB",
+      "Room": "1st floor hallway"
+    },
+    {
+      "ID": 27,
+      "Exhibit Name": "A Silver Paintbrush",
+      "Exhibit Description": "One of the earliest recorded manipulations in history of nanoparticles is that of their use in staining glass. Our exhibit aims to display and explain how plasmonic nanoparticles act as quantum dots and reflect color.  Stop by to watch us ‘stain’ glass with nanoparticles and learn about how nanoparticles behave optically to achieve a certain color.",
+      "URL": "#",
+      "Building": "MSEB",
+      "Room": "1st floor hallway"
+    },
+    {
+      "ID": 29,
+      "Exhibit Name": "Electronic Skin: Tattoos of the Future",
+      "Exhibit Description": "Come explore the endless possibilities of electronic skin! Apply temporary tattoos and play with stretchy polymer samples to understand important properties of electronic skin.",
+      "URL": "http://None",
+      "Building": "MSEB",
+      "Room": 100
+    },
+    {
+      "ID": 37,
+      "Exhibit Name": "Hot Chocolate",
+      "Exhibit Description": "Ever wonder why metals feel cold? Or why you can still hold a ceramic mug with hot coffee? Come learn about the differences in thermal properties between metals and ceramics! We'll be melting chocolate on different surfaces to see what shields heat better. You can help us time our experiments and watch how science works in real time! And who knows, you may just get some chocolate.",
+      "URL": "http://ma.matse.illinois.edu/",
+      "Building": "MSEB",
+      "Room": "1st floor hallway"
+    },
+    {
+      "ID": 64,
+      "Exhibit Name": "Wet 'N Wild With Sodium Polyacrylate",
+      "Exhibit Description": "Three cool and unique applications of super absorbent polymers (water beads, fake snow, and self healing bags)!",
+      "URL": "http://ma.matse.illinois.edu/",
+      "Building": "MSEB",
+      "Room": "1st floor hallway"
+    },
+    {
+      "ID": 70,
+      "Exhibit Name": "Evolution of Perovskite Solar Cells",
+      "Exhibit Description": "Come explore the evolution of perovskite solar cells! Perovskite defines a unique crystal structure which has potential for photovoltaic cells due to equal charge carrier mobilities. These types of cells started as a derivative of dye sensitized solar cells and have progressed very quickly through nano-structured and now thin film architectures. Come learn learn the physics behind energy harvesting, crush berries, and see some dye sensitized cells in action!",
+      "URL": "https://www.facebook.com/IllinoisMA/",
+      "Building": "MSEB",
+      "Room": "1st floor hallway"
+    },
+    {
+      "ID": 94,
+      "Exhibit Name": "Arming Yourself with Electromyography",
+      "Exhibit Description": "Come learn about how muscles can control prosthetics!",
+      "URL": "http://ma.matse.illinois.edu/",
+      "Building": "MSEB",
+      "Room": "1st floor hallway"
+    },
+    {
+      "ID": 109,
+      "Exhibit Name": "Oobleck",
+      "Exhibit Description": "Play with oobleck and see how oobleck plays on a speaker",
+      "URL": "http://keramosillinois.org/",
+      "Building": "MSEB",
+      "Room": "1st floor hallway"
+    },
+    {
+      "ID": 118,
+      "Exhibit Name": "Peeps in Space",
+      "Exhibit Description": "A bell jar apparatus will be used to emulate what happens to items we used daily like peeps, shaving cream, and water in space",
+      "URL": "http://uiucavs.blogspot.com/",
+      "Building": "MSEB",
+      "Room": "1st floor hallway"
+    },
+    {
+      "ID": 151,
+      "Exhibit Name": "Science from the 70s: homemade lava lamp",
+      "Exhibit Description": "Construct a lava lamp for visitors and some will take one home (decided through raffle); demonstrate hydrophobic and hydrophilic properties and a chemical reaction between acid and basis.",
+      "URL": "http://aoetheta.org/",
+      "Building": "MSEB",
+      "Room": "1st floor hallway"
+    },
+    {
+      "ID": 215,
+      "Exhibit Name": "Piezo Piano",
+      "Exhibit Description": "Play a keyboard powered by piezoelectric materials and learn more about the science of piezoelectricity!",
+      "URL": "#",
+      "Building": "MSEB",
+      "Room": "1st floor hallway"
+    },
+    {
+      "ID": 216,
+      "Exhibit Name": "DIY Raspberry Pi Supercomputer",
+      "Exhibit Description": "High Performance Computing  (HPC) is becoming a widespread computational tool in scientific research, but not all supercomputers need to be huge boxes containing computer hardware. In our exhibit, we demonstrate the ease of creating a cheap supercomputer out of Raspberry Pi modules. We demonstrate its application towards scientific computations, as well as equip the audience with the basic knowledge of supercomputing technologies.",
+      "URL": "https://www.facebook.com/saseillini/",
+      "Building": "MSEB",
+      "Room": ""
+    }
+  ],
+  "equad": [
+    {
+      "ID": 19,
+      "Exhibit Name": "Siege Weapons",
+      "Exhibit Description": "Do you want to try launching a foam football from a 7-ft catapult? Come to Pi Tau Sigma’s siege weapon exhibit to practice your aiming skills!",
+      "URL": "http://pitausigma.mechse.illinois.edu",
+      "Building": "Engineering Quad",
+      "Room": "Bardeen Quad"
+    },
+    {
+      "ID": 24,
+      "Exhibit Name": "Pix - a CNC Artbot",
+      "Exhibit Description": "The \"Intelligent\" Robot designed to draw your favorite image onto a sheet of paper! \n\nMade from scratch, Pix utilizes basic image filtration and analysis techniques to break down a picture into its key features and then attempts to generate pen paths to re-generate it in \"smooth\" strokes rather than pixel by pixel (like a standard printer).",
+      "URL": "http://irobotics.illinois.edu/pix-ai-art-robot/",
+      "Building": "Engineering Quad",
+      "Room": "Bardeen Quad"
+    },
+    {
+      "ID": 36,
+      "Exhibit Name": "Rocket Race",
+      "Exhibit Description": "Cable-guided small sport rockets race along Boneyard Creek",
+      "URL": "http://aiaa.ae.illinois.edu/",
+      "Building": "Engineering Quad",
+      "Room": "Bardeen Quad"
+    },
+    {
+      "ID": 41,
+      "Exhibit Name": "Candy Vac!",
+      "Exhibit Description": "The PTS Projects Team is build g a vacuum powered candy dispenser, which shoots candy several feet up and down to the user's hand.  The project will showcase many mechanisms and highlight the applications of vacuum power.",
+      "URL": "http://pitausigma.mechse.illinois.edu",
+      "Building": "Engineering Quad",
+      "Room": "Bardeen Quad"
+    },
+    {
+      "ID": 51,
+      "Exhibit Name": "JetCat Engine",
+      "Exhibit Description": "The JetCat is a RC jet engine that is operated and studied for research and science. The JetCat has a maximum thrust of 30 lbs. We are an aerospace student tech group that will be running the mini jet engine at full velocity every hour and will be presenting our projects that we have been working on over the the last year.",
+      "URL": "http://aiaa.ae.illinois.edu/",
+      "Building": "Engineering Quad",
+      "Room": "Bardeen Quad"
+    },
+    {
+      "ID": 53,
+      "Exhibit Name": "Design Build Fly",
+      "Exhibit Description": "Design Build Fly is an engineering RSO that designs, builds, and tests remote controlled aircraft with the goal of winning the Raytheon and Cessna Sponsored DBF competition.",
+      "URL": "http://dbf.ae.illinois.edu/",
+      "Building": "Engineering Quad",
+      "Room": "Bardeen Quad"
+    },
+    {
+      "ID": 57,
+      "Exhibit Name": "Mini Arc Furnace",
+      "Exhibit Description": "Arc furnaces are used in metal production.  This is a mini arc furnace to melt and cast steel.",
+      "URL": "http://ma.matse.illinois.edu/",
+      "Building": "Engineering Quad",
+      "Room": "North of MSEB, parking lot"
+    },
+    {
+      "ID": 63,
+      "Exhibit Name": "Illini Formula Electric 2017-2018 Vehicle",
+      "Exhibit Description": "The vehicle Illini Formula Electric (IFE) plan to complete with for the 2018 SAE Formula Electric competition. It is an electric race car that we design and manufacture.",
+      "URL": "http://illiniformulaelectric.com",
+      "Building": "Engineering Quad",
+      "Room": "Bardeen Quad"
+    },
+    {
+      "ID": 102,
+      "Exhibit Name": "V-Cop",
+      "Exhibit Description": "This exhibition is a home-built quad-copter which is able to propel and fly to its desired destination. The quad-copter has also been built with additional functionalities to increase its versatility. This is a representation of the members of NSBE who are able to improve upon whatever is given to them. Enjoy!",
+      "URL": "http://www.nsbe.org/home.aspx",
+      "Building": "Engineering Quad",
+      "Room": "Bardeen Quad"
+    },
+    {
+      "ID": 107,
+      "Exhibit Name": "Hybrid Rocket Demonstration",
+      "Exhibit Description": "This exhibit demonstrates the fundamentals of a hybrid rocket, via a small combustion chamber and nozzle mounted on an outdoor test stand. Powered by an acrylic plastic fuel grain and oxygen gas, the demonstration engine produces a bright flame and small amount of thrust. Students can learn about Newton's basic laws of motion along with the basic chemistry behind larger propulsion units used in space exploration.",
+      "URL": "http://iss.ae.illinois.edu/educational-outreach/",
+      "Building": "Engineering Quad",
+      "Room": "Bardeen Quad"
+    },
+    {
+      "ID": 119,
+      "Exhibit Name": "ROBO-I-STAR",
+      "Exhibit Description": "A tour guide robot that can introduce different places on campus to the visitors.",
+      "URL": "http://irobotics.illinois.edu/",
+      "Building": "Engineering Quad",
+      "Room": "Bardeen Quad"
+    },
+    {
+      "ID": 135,
+      "Exhibit Name": "Robobrawl",
+      "Exhibit Description": "Robobrawl is a robotic combat tournament spanning the two days of EOH. Two competitors face off in an arena for 3 minutes or until one stops moving. Robobrawl attracts competitors from universities across the midwest.",
+      "URL": "http://irobotics.illinois.edu/robobrawl/",
+      "Building": "Engineering Quad",
+      "Room": "Bardeen Quad"
+    },
+    {
+      "ID": 136,
+      "Exhibit Name": "InSPIRE Solar Charging Station",
+      "Exhibit Description": "Come learn about an easy to make Off-grid solar panel system.\nand charge your phone and check out our small scale prototype of our solar charging station",
+      "URL": "http://inspireweb.web.engr.illinois.edu",
+      "Building": "Engineering Quad",
+      "Room": "Bardeen Quad"
+    },
+    {
+      "ID": 163,
+      "Exhibit Name": "Nanogrid",
+      "Exhibit Description": "Solar and wind powered electrical grid",
+      "URL": "https://illinoistriangle.com",
+      "Building": "Engineering Quad",
+      "Room": "Bardeen Quad"
+    },
+    {
+      "ID": 165,
+      "Exhibit Name": "TRASHCANO",
+      "Exhibit Description": "Join the UIUC Volcano Lab as they simulate an explosive eruption using a trash can, water, and liquid nitrogen! We'll be running demonstrations throughout the day, at specific times (12p, 1:30p, 3p).",
+      "URL": "http://www.news-gazette.com/video/2017-04-25/trashcano.html",
+      "Building": "Engineering Quad",
+      "Room": "Bardeen Quad"
+    },
+    {
+      "ID": 184,
+      "Exhibit Name": "Dorm Room Fire Demonstration",
+      "Exhibit Description": "Two model dorm rooms are lit on fire, one with a sprinkler system and one without. Audience will be able to see the stages a structure fire moves through as well as the importance of sprinklers.",
+      "URL": "http://www.illinisfpe.com",
+      "Building": "Engineering Quad",
+      "Room": "Bardeen Quad"
+    },
+    {
+      "ID": 204,
+      "Exhibit Name": "College Caffeination",
+      "Exhibit Description": "Caffeine will be extracted from various sources. This product will then be tested with different acids to simulate what happens in the stomach when someone ingests caffeine. The end product will consist of a model of a human stomach that will be used to test samples of caffeine.",
+      "URL": "#",
+      "Building": "Engineering Quad",
+      "Room": "Bardeen Quad"
+    }
+  ],
+  "loomis": [
+    {
+      "ID": 28,
+      "Exhibit Name": "Physics Van",
+      "Exhibit Description": "A physics show for kids",
+      "URL": "https://van.physics.illinois.edu/",
+      "Building": "Loomis Lab",
+      "Room": 141
+    },
+    {
+      "ID": 31,
+      "Exhibit Name": "Electronic Instrument Band",
+      "Exhibit Description": "Play a keyboard powered by piezoelectric materials and learn more about the science of piezoelectricity!",
+      "URL": "https://wiki.illinois.edu//wiki/display/physoc",
+      "Building": "Loomis Lab",
+      "Room": "Atrium"
+    },
+    {
+      "ID": 33,
+      "Exhibit Name": "The Science of Brewing Beer",
+      "Exhibit Description": "We will examine the different chemical processes that occur during the brewing of beer as well as the different conditions that affect the quality of beer.",
+      "URL": "http://www.scs.illinois.edu/aiche/",
+      "Building": "Loomis Lab",
+      "Room": "Atrium"
+    },
+    {
+      "ID": 43,
+      "Exhibit Name": "Self-Siphoning Beads",
+      "Exhibit Description": "Watch a chain of metal beads leap of out their container in an exciting and counter-intuitive display of classical mechanics.",
+      "URL": "https://wiki.illinois.edu//wiki/display/physoc/Home",
+      "Building": "Loomis Lab",
+      "Room": "Atrium"
+    },
+    {
+      "ID": 62,
+      "Exhibit Name": "Physics at the University of Chicago",
+      "Exhibit Description": "Interested in physics research? Thinking about school at the University of Chicago? Come stop by!",
+      "URL": "https://physics.uchicago.edu",
+      "Building": "Loomis Lab",
+      "Room": "Atrium"
+    },
+    {
+      "ID": 65,
+      "Exhibit Name": "Liquid Nitrogen Ice Cream",
+      "Exhibit Description": "Creating \"Dippin Dots\" by pouring melted ice cream into a tub of liquid nitrogen.  Ice cream will be served in small paper cups to visitors.",
+      "URL": "http://www.scs.illinois.edu/aiche/",
+      "Building": "Loomis Lab",
+      "Room": "Atrium"
+    },
+    {
+      "ID": 73,
+      "Exhibit Name": "Slime Time",
+      "Exhibit Description": "Combine glue and liquid starch to create slime. Children will get a hands-on and visual experience on the different properties of polymers.",
+      "URL": "http://www.scs.illinois.edu/aiche/",
+      "Building": "Loomis Lab",
+      "Room": "Atrium"
+    },
+    {
+      "ID": 75,
+      "Exhibit Name": "E&M Room",
+      "Exhibit Description": "Interactive experiments and demos to expose the public to interesting and fun physics",
+      "URL": "https://wiki.cites.illinois.edu/wiki/display/physoc",
+      "Building": "Loomis Lab",
+      "Room": "Atrium"
+    },
+    {
+      "ID": 77,
+      "Exhibit Name": "Chemistry Shore is Fun!",
+      "Exhibit Description": "Here at Alpha Chi Sigma, we strive for the advancement of chemistry both as a science and as a profession. Come and have a \"sands\" on experience by learning how to make Moon Sand, Hydrophobic Sand and Kinetic Sand while also learning the chemistry behind them and how they can impact the future of chemistry.",
+      "URL": "http://www.alphachisigmazeta.org/",
+      "Building": "Loomis Lab",
+      "Room": "Atrium"
+    },
+    {
+      "ID": 85,
+      "Exhibit Name": "Hydrophobic Materials and Applications",
+      "Exhibit Description": "In our project we will be demonstrating the uses and applications of hydrophobic materials. We will be showing how surfaces are able to shield themselves from water when coated with this substance. Engineered through one of nature’s most fascinating wonders, the lotus leaf is coated with hydrophobic wax crystals which repels all water molecules and prevents them from adhering. This concept inspired innovators to design a man-made hydrophobic material that has existed for industrial and commercial purposes for many years now. For our project, we would like to show the science behind this extremely beneficial substance and its everyday use. \n\n•        Nanoskin Hydro Express Hydrophobic Spray Polymer\no        http://www.detailing.com/store/nanoskin-hydro-express-hydrophobic-spray-polymer-1-gal.html?gclid=CjwKCAiA-KzSBRAnEiwAkmQ15_knU1_krXvXXkIb3w7t_tXF2GlIk1voMUfZu_e4Za929evfCsFeJhoCM6EQAvD_BwE \n•        Food coloring (for demonstration purposes)\no        https://www.target.com/p/mccormick-4ct-assorted-food-color-and-egg-dye-1-2oz/-/A-13353207?ref=tgt_adv_XS000000&AFID=google_pla_df&CPNG=PLA_Grocery+Essentials+Shopping&adgroup=SC_Grocery&LID=700000001170770pgs&network=g&device=c&location=9022121&gclid=CjwKCAiA-KzSBRAnEiwAkmQ1570RJWziqkDRhmxlTQ1JCw65s9xlXgk9g4Gb0CzKdm-eXRM5bGpxBRoCV7oQAvD_BwE&gclsrc=aw.ds \n•        Super Hydrophobic Coating Changes Wood Into Waterproof Wood\no        https://ultrahydrophobiccoating.com/product/super-hydrophobic-coating-changes-waterproof-wood/",
+      "URL": "jhttp://www.scs.illinois.edu/aiche/",
+      "Building": "Loomis Lab",
+      "Room": "Atrium"
+    },
+    {
+      "ID": 89,
+      "Exhibit Name": "Alchemic Wonders of Electrochemistry",
+      "Exhibit Description": "This project is designed to inform the audience about the discipline of electrochemistry through imitations of popular alchemic feats such as transmutation of gold and artificial life. As the audience engages with the different projects, our hope is that their perspective on chemistry can be expanded beyond the standard test tubes and beakers. Once completed, the experiment demonstrations will include, (1) electroplating zinc and later a brass alloy onto pennies, (2) constructing a working circuit with lemons and LED lights, and (3) creating an oscillating chemical reaction that imitates a heartbeat on the surface of metallic mercury.\n\nThe lemon circuit demonstration informs the audience that the general battery runs on reduction-oxidation reactions. It also illustrates an alternative redox reaction other than the usual alkaline zinc/manganese oxide batteries that produces electric current. A more involved electrochemistry experiment though is our zinc-bronze plated pennies. This demonstration illustrates an application of redox reactions that do not result in energy production but is still valued for metal coating purposes. Overall we want the visitors to grasp the general concept of electrochemical reactions and have them see that industrial applications of this chemistry regularly appear in their lives.",
+      "URL": "http://www.scs.illinois.edu/aiche/",
+      "Building": "Loomis Lab",
+      "Room": "Atrium"
+    },
+    {
+      "ID": 100,
+      "Exhibit Name": "Visual Distillation of Ethanol and Water",
+      "Exhibit Description": "This project provides a firsthand look into distillation, one of the fundamental separation techniques in chemical engineering.  Distillation is a technique meant to purify or concentrate a mixture of substances, and is of universal importance from beverages, to oil, to chemical production.  Our demonstration will showcase primarily how beverages with a high alcohol content are made commercially, beginning with a mixture of ethanol (the alcohol people drink) and water.  To do this, we will exploit the difference in boiling points of ethanol and water while using a visual indicator to show the purification achieved.",
+      "URL": "https://illinois-oxe.weebly.com/",
+      "Building": "Loomis Lab",
+      "Room": "Atrium"
+    },
+    {
+      "ID": 103,
+      "Exhibit Name": "Chemical ReOXEtions: Edible and Not",
+      "Exhibit Description": "Come join OXE in exploring chemical properties found in whipped cream and milk in this kid-friendly, interactive exhibit.  We will be making edible whipped cream while exploring the interactions between detergent molecules and water.  Moreover, we will use a colorful demonstration to explore the charged interactions between milk and detergent molecules found in soap.",
+      "URL": "https://illinois-oxe.weebly.com/",
+      "Building": "Loomis Lab",
+      "Room": "Atrium"
+    },
+    {
+      "ID": 108,
+      "Exhibit Name": "Micro-encapsulation: From Food Products to Pharmaceuticals",
+      "Exhibit Description": "Come learn how popping boba from your favorite Froyo place is made and learn about the many other applications of micro-encapsulation!",
+      "URL": "http://www.scs.illinois.edu/aiche/",
+      "Building": "Loomis Lab",
+      "Room": "Atrium"
+    },
+    {
+      "ID": 121,
+      "Exhibit Name": "Food for Thought",
+      "Exhibit Description": "Various food-related experiments, some of which can be performed at home! Including: egg in a bottle, density tower, surface tension, marshmallow in a vacuum, electric pickle, and glow eggs.",
+      "URL": "http://people.physics.illinois.edu/SWIP/",
+      "Building": "Loomis Lab",
+      "Room": "Atrium"
+    },
+    {
+      "ID": 123,
+      "Exhibit Name": "Paper Circuits",
+      "Exhibit Description": "Make your own paper circuits! Use conducting paint and LEDs to demonstrate parallel and series circuits. Showcase your skills in art AND science.",
+      "URL": "http://people.physics.illinois.edu/SWIP/",
+      "Building": "Loomis Lab",
+      "Room": "Atrium"
+    },
+    {
+      "ID": 129,
+      "Exhibit Name": "Biofuels",
+      "Exhibit Description": "Bio sources can be used to generate energy. In our project, we will use commonly used sugar sources to show how energy is generated through chemical reaction.",
+      "URL": "http://www.scs.illinois.edu/aiche/",
+      "Building": "Loomis Lab",
+      "Room": "Atrium"
+    },
+    {
+      "ID": 131,
+      "Exhibit Name": "Gear Up!",
+      "Exhibit Description": "This exhibit will be geared towards demonstrating safety procedures that are put in place in chemistry laboratories.  \nThe purpose of lab coats, goggles, and gloves will be discussed in full, along with the different hazards that are present in labs.  Other safety fixtures such as safety showers, fume hoods, and eye washes will also be discussed. The groups will also display a chemical spill kit and explain the different parts",
+      "URL": "http://www.scs.illinois.edu/aiche/",
+      "Building": "Loomis Lab",
+      "Room": "Atrium"
+    },
+    {
+      "ID": 132,
+      "Exhibit Name": "Help! ChemEs have fallen and they can't get up!",
+      "Exhibit Description": "Safety is a very important aspect of Chemical Engineering in every industry. With this exhibit, you will learn about the main safety concerns in different chemical engineering industries with interactive demonstrations of the solutions! As always, worker safety and environment protection is every engineer's top priority!",
+      "URL": "http://www.scs.illinois.edu/aiche/",
+      "Building": "Loomis Lab",
+      "Room": "Atrium"
+    },
+    {
+      "ID": 149,
+      "Exhibit Name": "Demonstration of Sustainable Soap",
+      "Exhibit Description": "Try out our newly made IBI sustainable soap made from coffee ground waste found on campus.",
+      "URL": "http://sustainability.illinois.edu/actionsinitiatives/getting-involved/illini-biodiesel-initiative/",
+      "Building": "Loomis Lab",
+      "Room": "Atrium"
+    },
+    {
+      "ID": 173,
+      "Exhibit Name": "Atoms in Motion: A Virtual Reality Experience",
+      "Exhibit Description": "Step into the world of atoms through an interactive virtual reality experience! Learn about phase change, atomic motion, and atomic bonds by shrinking down to the nano-scale and interacting with the atoms yourself.",
+      "URL": "#",
+      "Building": "Loomis Lab",
+      "Room": 158
+    },
+    {
+      "ID": 176,
+      "Exhibit Name": "The Cloud Chamber",
+      "Exhibit Description": "Features a well-documented, Do It Yourself cloud chamber display and original supplementary explanatory material describing particle physics and particle physics detectors.",
+      "URL": "https://www.facebook.com/physinternational/",
+      "Building": "Loomis Lab",
+      "Room": 136
+    }
+  ],
+  "ncsa": [
+    {
+      "ID": 38,
+      "Exhibit Name": "Blue Waters Supercomputer",
+      "Exhibit Description": "OPEN SATURDAY ONLY. Come see one of the world's largest and fastest supercomputers and the power and cooling that make it go!  Learn about the amazing science discoveries it enables, from influenza and cancer to earthquakes, tornadoes and hurricanes, to gravitational waves and Big Bang explosions.",
+      "URL": "http://bluewaters.ncsa.illinois.edu",
+      "Building": "NCSA",
+      "Room": ""
+    },
+    {
+      "ID": 194,
+      "Exhibit Name": "NCSA 4K/3D Cinematic Scientific Visualizations",
+      "Exhibit Description": "Established over 14 years ago, the Advanced Visualization Laboratory’s (AVL) mission is to communicate science and inspire audiences to learn about science through the creation and integration of data visualizations into public outreach projects. Working in close collaboration with domain scientists, AVL creates high-resolution, cinematic, visualizations of scientific data. These visualizations provide insight into computational science—a key method of contemporary science. AVL shares its work with the world through shows featured in digital full-dome planetariums, IMAX theaters, and documentary television.",
+      "URL": "http://avl.ncsa.illinois.edu/",
+      "Building": "NCSA",
+      "Room": ""
+    },
+    {
+      "ID": 217,
+      "Exhibit Name": "Virtual Jazz Orchestra",
+      "Exhibit Description": "The Haken Continuum Fingerboard and custom software is used to create a realistic jazz big band like the Count Basie Orchestra.",
+      "URL": "http://www.virtualjazzorchestra.com",
+      "Building": "NCSA",
+      "Room": ""
+    },
+    {
+      "ID": 218,
+      "Exhibit Name": "Benchmarking Parallelized File Aggregation Tools for Large Scale Data Management",
+      "Exhibit Description": "This collaborative work between undergraduate Tiffany Li, former graduate student Ryan Chui, and the Blue Waters team, benchmarks ParFu and ptgz, two parallelized and multi-threaded utilities for archiving and compressing small files in a cluster environment.",
+      "URL": "https://wiki.ncsa.illinois.edu/display/LH/HPC+for+Computational+Genomics",
+      "Building": "NCSA",
+      "Room": ""
+    },
+    {
+      "ID": 219,
+      "Exhibit Name": "What Have in Common Artificial Intelligence, Supercomputers and Black Holes Collisions?",
+      "Exhibit Description": "Through a variety of hands-on activities, video games, augmented reality and visualizations, visitors will explore the effects of black holes on objects and light around them. Using video games, they will search for gravitational waves, and will hunt for black holes in far away galaxies.",
+      "URL": "http://gravity.ncsa.illinois.edu",
+      "Building": "NCSA",
+      "Room": ""
+    },
+    {
+      "ID": 220,
+      "Exhibit Name": "Scaling the Computation of Epistatic Interactions in GWAS Data: Computational Approaches",
+      "Exhibit Description": "This presentation discusses a software prototype designed and tested by Jacob Heldenbrand and undergraduate Ellen Nie intended to speed up and scale out the analysis of epistasis (gene-on-gene interactions) using GWAS result. The work is done in collaboration with the Center for Computational Biology and Genomic Medicine (CCBGM).",
+      "URL": "https://wiki.ncsa.illinois.edu/display/LH/HPC+for+Computational+Genomics",
+      "Building": "NCSA",
+      "Room": ""
+    },
+    {
+      "ID": 221,
+      "Exhibit Name": "RIVEEL3D: Virtual Reality Archeological Tour",
+      "Exhibit Description": "RIVEEL 3D works with NCSA's Advanced Visualization Lab to design interactive environments to catalogue, view, and analyze archaeological data within a virtual environment, in an effort to preserve historic excavation sites for the future. RIVEEL3D is a branch of the Cyprus Institute's digital cultural heritage research initiative.\nCredits: The Cyprus Institute, Science and Technology in Archaeology Research Center, Department of Antiquities, Nicosia Municipality, Colter Wehmeier, Donna J Cox, Kenton Guadron McHenry, Bob Patterson, AJ Christensen and Stuart Levy (University of Illinois, Urbana-Champaign, National Center for Supercomputing Applications, AVL)",
+      "URL": "http://avl.ncsa.illinois.edu/realworld-software/riveel-3d",
+      "Building": "NCSA",
+      "Room": ""
+    },
+    {
+      "ID": 222,
+      "Exhibit Name": "Screening “Seeing the Beginning of Time” Times: 9:30am, 11:30am and 1:30pm",
+      "Exhibit Description": "Co-produced by NCSA and Thomas Lucas Productions, Seeing the Beginning of Time takes viewers on a visually-compelling journey through deep space and time. The 50-minute, 4K science documentary follows astronomers in one of the most far-reaching efforts ever undertaken to study the universe. Using giant new lenses and mirrors and marshaling vast computational power, peer into the deep recesses of time to find out how the universe set the stage for galaxies and worlds like ours in an era known as the Cosmic Dawn. \n\nLearn more from NCSA’s Advanced Visualization Lab about how state-of-the-art technologies were created using NCSA's Blue Waters supercomputer to create cinematic production-quality data visualizations showcasing hundreds of millions of years of galactic evolution.",
+      "URL": "http://www.ncsa.illinois.edu/news/story/seeing_the_beginning_of_time",
+      "Building": "NCSA",
+      "Room": ""
+    },
+    {
+      "ID": 223,
+      "Exhibit Name": "NCSA Industry",
+      "Exhibit Description": "With more than 30 years of leadership in high-performance computing (HPC), NCSA Industry is home to the largest industrial HPC program in the world. We have worked with many Fortune 50® companies in sectors including manufacturing, oil and gas, finance, retail/wholesale, medical, pharmaceutical, agriculture, technology, and more. Our goal is to provide superior consultation, matching corporate and government challenges and needs with HPC solutions only available through NCSA Industry.",
+      "URL": "http://spin.ncsa.illinois.edu/",
+      "Building": "NCSA",
+      "Room": ""
+    },
+    {
+      "ID": 225,
+      "Exhibit Name": "SPIN - Student Pushing INnovation",
+      "Exhibit Description": "NCSA has a history of nurturing innovative concepts, and some of the best ideas have come from highly motivated, creative undergraduates. The SPIN (Students Pushing Innovation) internship program was launched to provide University of Illinois undergraduates with the opportunity to apply their skills to real challenges in high-performance computing, data analysis and visualization, cybersecurity, and other areas of interest to NCSA. Want to know what SPIN has to offer? Stop by, and meet the wonderful mentors and SPIN students who make this program a success!",
+      "URL": "http://spin.ncsa.illinois.edu",
+      "Building": "NCSA",
+      "Room": ""
+    },
+    {
+      "ID": 226,
+      "Exhibit Name": "Design for America (DFA)",
+      "Exhibit Description": "DFA at University of Illinois Urbana-Champaign is a registered student organization, as well as a part of a national network, of passionate creators & innovators revolutionizing the way college students engage with our local communities. Our Studio fosters idea incubation, empathy in design, and motivation in approaching complicated challenges. DFA is open to ALL majors and anyone interested in design, innovation, entrepreneurship, or just making a difference!",
+      "URL": "http://www.dfaillinois.com",
+      "Building": "NCSA",
+      "Room": ""
+    },
+    {
+      "ID": 227,
+      "Exhibit Name": "XMAL/Interactive Multi-Media Ecologies",
+      "Exhibit Description": "A series of multi-media art installations that incorporate the observer’s movement into a visual and sonic atmosphere, creating a dynamic, feedback artistic ecology. By gathering and analyzing a variety of movement features, elements of the installation ‘react’ to the observer, relaying imagery and audio throughout the environment. As the observer moves and reacts within the space, they become integrated directly with the visual and aural elements, creating responsive feedback ecology.",
+      "URL": "https://vimeo.com/183365408",
+      "Building": "NCSA",
+      "Room": ""
+    },
+    {
+      "ID": 228,
+      "Exhibit Name": "NCSA’s Blue Waters Supercomputing Project",
+      "Exhibit Description": "The Blue Waters petascale supercomputer at NCSA is one of the most powerful supercomputers in the world, and is the fastest sustained supercomputer on a university campus. Blue Waters uses hundreds of thousands of computational cores to achieve peak performance of more than 13 quadrillion calculations per second. Blue Waters has more memory and faster data storage than any other open system in the world. Scientists and engineers across the country use the computing and data power of Blue Waters to tackle a wide range of challenges. Learn more about how Blue Waters powers innovative research.",
+      "URL": "http://www.ncsa.illinois.edu/enabling/bluewaters",
+      "Building": "NCSA",
+      "Room": ""
+    },
+    {
+      "ID": 229,
+      "Exhibit Name": "Dark Energy Survey (DES) / Large Synoptic Survey Telescope (LSST)",
+      "Exhibit Description": "NCSA provides a data management framework for the Dark Energy Survey (DES), which is using one of the world's largest digital camera to undertake the largest galaxy survey ever attempted. This framework processes, calibrates, and archives the massive amounts of data—quadrillions of bytes over the lifetime of the survey—that will be collected for the DES.\n \nNCSA will process and archive data for the Large Synoptic Survey Telescope (LSST), currently under construction in Chile. LSST will use an 8.4-meter telescope and 3-gigapixel camera (the largest digital camera ever constructed) to produce a wide-field astronomical survey of the universe, collecting tens of terabytes of data every night. LSST will track changes in the Universe and explore the mysteries of dark energy and dark matter. The LSST mission will begin a ten-year survey starting in January 2022.",
+      "URL": "https://opensource.ncsa.illinois.edu/confluence/pages/viewpage.action?pageId=72974656",
+      "Building": "NCSA",
+      "Room": ""
+    },
+    {
+      "ID": 230,
+      "Exhibit Name": "",
+      "Exhibit Description": "",
+      "URL": "http://www.ncsa.illinois.edu",
+      "Building": "NCSA",
+      "Room": ""
+    },
+    {
+      "ID": 231,
+      "Exhibit Name": "Join Genomics Group for Fun and Hands on Activities!",
+      "Exhibit Description": "Fun For All Ages!\nHow can Scrabble help us learn how to sequence DNA? Find the correct sequence, using Scrabble letters and learn how scientists study DNA! This activity is accompanied with age-appropriate trivia about Blue Waters and the science of genomics.",
+      "URL": "https://wiki.ncsa.illinois.edu/display/LH/HPC+for+Computational+Genomics",
+      "Building": "NCSA",
+      "Room": ""
+    },
+    {
+      "ID": 232,
+      "Exhibit Name": "NCSA Integrated Cyberinfrastructure Division",
+      "Exhibit Description": "The NCSA Integrated Cyberinfrastructure (ICI) directorate manages a modern cyberinfrastructure that supports engineering and scientific research for a variety of academic, government and industry partners. ICI provides system engineers and administrators who are knowledgeable about computer architecture, storage technology, interconnect, operating system, cluster software stack, user management, job management, resources monitoring, networking, and security, as well as best practices in the field, to help field the world class resources that NCSA and its partners utilize.",
+      "URL": "https://wiki.ncsa.illinois.edu/display/NCSACIP/NCSA+Internship+Program+for+CI+Professionals+Home",
+      "Building": "NCSA",
+      "Room": ""
+    },
+    {
+      "ID": 233,
+      "Exhibit Name": "n/a",
+      "Exhibit Description": "",
+      "URL": "http://www.ncsa.illinois.edu/enabling/xsede",
+      "Building": "NCSA",
+      "Room": ""
+    },
+    {
+      "ID": 234,
+      "Exhibit Name": "University of Illinois’ Autonomous Submarine Team",
+      "Exhibit Description": "Fun For All Ages!\nLed by NCSA researcher Vlad Kindratenko, IllinoisAUV is a student-run organization that builds competitive autonomous, underwater vehicles. These submarines must independently perform various tasks, such as object detection. Dive right in!",
+      "URL": "http://illinoisauv.com",
+      "Building": "NCSA",
+      "Room": ""
+    },
+    {
+      "ID": 235,
+      "Exhibit Name": "Virtual Reality and Ray Tracing for Materials Science",
+      "Exhibit Description": "Computational materials science research produces large amounts of data that contains detailed information, e.g. about the electronic and atomic structure of materials. Extracting information from this rich data to understand processes and mechanisms in materials is an important scientific challenge. We will demonstrate how visualization, based on ray tracing and stereoscopic rendering, actively helps with this challenge. Our team is developing code, movies, and cell-phone Apps to produce and display images and movies. At this exhibit, we use a standard cell phone and a headset to show the structure of existing and novel materials e.g. for solar-energy harvesting, optoelectronic applications, and focused-ion beam technology. Visitors will be able to watch visualizations of atoms and electrons in virtual-reality and learn more about the materials. We are also exploring interacting with the datasets, using controllers.",
+      "URL": "http://spin.ncsa.illinois.edu/",
+      "Building": "NCSA",
+      "Room": ""
+    },
+    {
+      "ID": 236,
+      "Exhibit Name": "Mini Cluster Display",
+      "Exhibit Description": "The NCSA Student Cluster Competition Team designs and builds small clusters with hardware and software vendor partners, learns designated scientific applications, and applies optimization techniques for their chosen architectures. Join us to learn more about how clusters are made!",
+      "URL": "http://www.studentclustercompetition.us/2016/UIUC/index.html",
+      "Building": "NCSA",
+      "Room": ""
+    }
+  ],
+  "mel": [
+    {
+      "ID": 42,
+      "Exhibit Name": "NoNewtonianFluidsHere",
+      "Exhibit Description": "Non Newtonian Fluid Behavior to sound signals. We encourage the audience to visual their voices in terms of non newtonian fluids. Apparatus will include multiple speakers (4), a function generator connected to one speaker to simulate a base signal and demonstrate the behavior of non-netwonian fluids as a sample case. The other speakers will be used to visualize the person's voice split in treble, middle and base frequency ranges. The design will be water proof and transparent.",
+      "URL": "http://pitausigma.mechse.illinois.edu",
+      "Building": "Mechanical Engineering Lab",
+      "Room": "First floor hallway"
+    },
+    {
+      "ID": 81,
+      "Exhibit Name": "Girl's Club",
+      "Exhibit Description": "The Society of Women Engineers invites you to come explore the world of STEM through interactive activities like building your own lava lamps and making your own personal mirrors.",
+      "URL": "https://www.societyofwomenengineers.illinois.edu/",
+      "Building": "Mechanical Engineering Lab",
+      "Room": 2001
+    },
+    {
+      "ID": 82,
+      "Exhibit Name": "The SWEscape Room",
+      "Exhibit Description": "Use your knowledge of STEM to escape from the Mad Engineer's lab. Challenge yourself with our 30 minute escape room experience!",
+      "URL": "https://www.societyofwomenengineers.illinois.edu/",
+      "Building": "Mechanical Engineering Lab",
+      "Room": 2001
+    },
+    {
+      "ID": 111,
+      "Exhibit Name": "The Mighty Cheese",
+      "Exhibit Description": "The Mighty Cheese features a “cheese” wheel that does not want to fall down. Visitors get the chance to push over a case housing a heavy flywheel spinning rapidly. Due to conservation of angular momentum, it will be very difficult.",
+      "URL": "http://asme.mechse.illinois.edu/index.html",
+      "Building": "Mechanical Engineering Lab",
+      "Room": 2005
+    },
+    {
+      "ID": 112,
+      "Exhibit Name": "Pulleys",
+      "Exhibit Description": "Pulley advantage allows engineers to lift very heavy objects with very little effort. This exhibit allows visitors to sit on a seat and pull themselves up with different pulley advantages and experience first hand how helpful it is.",
+      "URL": "http://asme.mechse.illinois.edu/index.html",
+      "Building": "Mechanical Engineering Lab",
+      "Room": 2005
+    },
+    {
+      "ID": 113,
+      "Exhibit Name": "Spirograph",
+      "Exhibit Description": "Lever arms connected to rotating gears change speeds depending on where it is connected to the gear. Connect two lever arms together, add a marker, and we are able to draw complex mathematical drawings to pass out to visitors.",
+      "URL": "http://asme.mechse.illinois.edu/index.html",
+      "Building": "Mechanical Engineering Lab",
+      "Room": "1st floor hallway"
+    },
+    {
+      "ID": 114,
+      "Exhibit Name": "Ferrofluids",
+      "Exhibit Description": "Ferrofluids are liquids that react to magnetic fields. The goal is to create an informative audiovisual experience for viewers to see otherwise invisible electromagnetic fields.",
+      "URL": "http://asme.mechse.illinois.edu/index.html",
+      "Building": "Mechanical Engineering Lab",
+      "Room": "1st floor hallway"
+    },
+    {
+      "ID": 115,
+      "Exhibit Name": "The Equinox",
+      "Exhibit Description": "Gears are crucial tools that mechanical engineers utilize daily. This exhibit gives visitors first hand experience with gear ratios in an enlightening solar system extravaganza. The goal is to use gears to guide a laser through a planetary system to blow up the sun!",
+      "URL": "http://asme.mechse.illinois.edu/index.html",
+      "Building": "Mechanical Engineering Lab",
+      "Room": 2005
+    },
+    {
+      "ID": 116,
+      "Exhibit Name": "Water Ring Toss",
+      "Exhibit Description": "A giant variation of the handheld toy. How many rings can you hook?",
+      "URL": "http://asme.mechse.illinois.edu/index.html",
+      "Building": "Mechanical Engineering Lab",
+      "Room": 2005
+    },
+    {
+      "ID": 120,
+      "Exhibit Name": "Rheology Zoo: Fluids, Solids and Things-in-between",
+      "Exhibit Description": "Defying the classical definitions of fluids and solids are rheologically complex materials, also known as non-Newtonian fluids. Visitors will experience how the phenomena of rheology are present in everyday materials such as slime, silly putty, and chewing gum through hands-on demonstrations of current rheological research. You will learn how researchers at Illinois are helping to DRAFT THE FUTURE by advancing the science of design and engineering with soft materials through projects in bioinspired engineering, modern cuisine, fire suppression, and soft robotics.",
+      "URL": "http://ewoldt.mechanical.illinois.edu/",
+      "Building": "Mechanical Engineering Lab",
+      "Room": 2005
+    },
+    {
+      "ID": 133,
+      "Exhibit Name": "Advanced technologies used on energy conversion systems",
+      "Exhibit Description": "Our exhibit would include a running prototype of energy conversion system,  superhydrophobic heat exchanger surface samples, ejector and vortex tube for refrigeration and air conditioning, scroll and swash plate compressors",
+      "URL": "https://illinois.campuslabs.com/engage/organization/ASHRAE",
+      "Building": "Mechanical Engineering Lab",
+      "Room": "1st floor hallway"
+    },
+    {
+      "ID": 146,
+      "Exhibit Name": "MNMS Cleanroom",
+      "Exhibit Description": "In the Micro Nano Mechanical Systems (MNMS) cleanroom exhibit, we share the wonders of the micro- and nanoscale by showcasing the cleanroom capabilities in the Department of Mechanical Science and Engineering.  We will have video footage showing students from the ME487 MEMS NEMS Theory and Fabrication class doing microfabrication experiments in the cleanroom, pressure sensors and microfluidic mixers that were fabricated during the class, every day items made with MEMS based devices, and cleanroom suits that are useful in containing particles while working at the microscale.  We hope to give you a peek into the world of micro- and nanotechnology research.  Please come visit us on Friday as we will not be available on Saturday.",
+      "URL": "https://www-s.mechse.uiuc.edu/cleanroom/",
+      "Building": "Mechanical Engineering Lab",
+      "Room": "2nd floor hallway, outside John Deere Pavilion"
+    },
+    {
+      "ID": 152,
+      "Exhibit Name": "Tam Toys",
+      "Exhibit Description": "Toys that inspire an interest in engineering and STEM",
+      "URL": "http://sem.mechse.illinois.edu/",
+      "Building": "Mechanical Engineering Lab",
+      "Room": "1st floor hallway"
+    },
+    {
+      "ID": 153,
+      "Exhibit Name": "Chocolate 3D Printer",
+      "Exhibit Description": "A 3d printer that prints out chocolate",
+      "URL": "http://sem.mechse.illinois.edu/",
+      "Building": "Mechanical Engineering Lab",
+      "Room": "Innovation Studio"
+    },
+    {
+      "ID": 154,
+      "Exhibit Name": "S'more Machine",
+      "Exhibit Description": "An automatic S'more Machine",
+      "URL": "http://sem.mechse.illinois.edu/",
+      "Building": "Mechanical Engineering Lab",
+      "Room": "Innovation Studio"
+    },
+    {
+      "ID": 205,
+      "Exhibit Name": "Automaton toy",
+      "Exhibit Description": "The MechSE department's ME370-Mechanical Design students will present their hand-powered automaton mechanical toys which feature mechanisms that\nimitate the movement of living creatures. These mechanical toys are engineered with educational, fun, artistic, social, thought-provoking and/or functional purposes (for people of all ages).",
+      "URL": "https://mechanical.illinois.edu/page-tags/me-370",
+      "Building": "Mechanical Engineering Lab",
+      "Room": "Innovation Studio"
+    }
+  ],
+  "siebel": [
+    {
+      "ID": 56,
+      "Exhibit Name": "Cream on Chrome",
+      "Exhibit Description": "Light show inspired by the video \"Cream on Chrome\" by Ratatat",
+      "URL": "https://www.youtube.com/watch?v=xlcywgEMuGI",
+      "Building": "Siebel Center",
+      "Room": "Atrium"
+    },
+    {
+      "ID": 161,
+      "Exhibit Name": "Data Science for Everyone",
+      "Exhibit Description": "We explore multiple applications of data science that impact our day to day life, and attempt to recreate them",
+      "URL": "http://facebook.com/adsauiuc",
+      "Building": "Siebel Center",
+      "Room": "Atrium"
+    },
+    {
+      "ID": 162,
+      "Exhibit Name": "GameBuilders' Games!",
+      "Exhibit Description": "A selection of videogames created by undergraduates in the GameBuilders organization here on campus! Stop by to try them out or have a chat about anything game-related. Interested in working in the game development industry? Want to get feedback on your awesome game idea? Everyone and everything",
+      "URL": "https://www-s.acm.illinois.edu/gamebuilders/contact.html",
+      "Building": "Siebel Center",
+      "Room": "Atrium"
+    },
+    {
+      "ID": 175,
+      "Exhibit Name": "Mechmania 2017",
+      "Exhibit Description": "The game and back-end systems used in last year's Mechmania competition",
+      "URL": "https://acm.illinois.edu/",
+      "Building": "Siebel Center",
+      "Room": "Atrium"
+    },
+    {
+      "ID": 177,
+      "Exhibit Name": "Sunny",
+      "Exhibit Description": "A short animated film about Sunny the alarm clock owned by a college student",
+      "URL": "https://www-s.acm.illinois.edu/siggraph/",
+      "Building": "Siebel Center",
+      "Room": 1214
+    },
+    {
+      "ID": 178,
+      "Exhibit Name": "Data Canvas",
+      "Exhibit Description": "Visualize abstract data-structures through interactive web application to engage more people in learning programming.",
+      "URL": "http://wcs.illinois.edu/",
+      "Building": "Siebel Center",
+      "Room": 1214
+    },
+    {
+      "ID": 179,
+      "Exhibit Name": "Night Sky App",
+      "Exhibit Description": "An Alexa/web app to give info about the current night sky based on user location.",
+      "URL": "http://wcs.illinois.edu/",
+      "Building": "Siebel Center",
+      "Room": "Atrium"
+    },
+    {
+      "ID": 180,
+      "Exhibit Name": "Runner App",
+      "Exhibit Description": "A runner app that traces and displays your running route based on GPS locations.",
+      "URL": "http://wcs.illinois.edu/",
+      "Building": "Siebel Center",
+      "Room": 1214
+    },
+    {
+      "ID": 195,
+      "Exhibit Name": "Web Data View",
+      "Exhibit Description": "Human-in-the-loop universal web data extraction platform",
+      "URL": "http://zpahuja.github.io/WebDataView",
+      "Building": "Siebel Center",
+      "Room": "Atrium"
+    },
+    {
+      "ID": 199,
+      "Exhibit Name": "Video As a Sensor",
+      "Exhibit Description": "Utilizing a Convolutional Neural Network for real time object detection",
+      "URL": "http://kylebegovich.com",
+      "Building": "Siebel Center",
+      "Room": "Atrium"
+    },
+    {
+      "ID": 201,
+      "Exhibit Name": "H2O Go",
+      "Exhibit Description": "An interactive computer game which audience members can play in order to learn about sources of clean water, how water is used, and how water pollution affects the world.",
+      "URL": "http://wcs.illinois.edu/",
+      "Building": "Siebel Center",
+      "Room": 1214
+    },
+    {
+      "ID": 202,
+      "Exhibit Name": "Computer Science Academic Planner",
+      "Exhibit Description": "A four year academic planner: Students can plan all their remaining semesters on campus in one go. The planner will tell students whether they are on track to graduate given their major, specialization track, and preferences in instructors.",
+      "URL": "http://wcs.illinois.edu/",
+      "Building": "Siebel Center",
+      "Room": 1214
+    },
+    {
+      "ID": 207,
+      "Exhibit Name": "Lock Picking with the Illinois Cyber Security Scholars Program (ICSSP)",
+      "Exhibit Description": "Increasing cyber security awareness through physical security (Lock Picking)",
+      "URL": "https://publish.illinois.edu/cybersecurityscholars/",
+      "Building": "Siebel Center",
+      "Room": "Atrium"
+    },
+    {
+      "ID": 214,
+      "Exhibit Name": "Opico",
+      "Exhibit Description": "Opico is a mobile app that lets you give opinions about all the places you eat and visit with a twist: you can only use emojis. With over 500 users and over 1500 opinions posted on the app, the app contains information about places all over the world. Our exhibit will showcase an interactive map with real-time data about opinions being posted all around the Champaign Urbana that can be curated to show visitors specific information such as all the coffee shops in CU or any other interesting data visualizations.",
+      "URL": "http://opico.io",
+      "Building": "Siebel Center",
+      "Room": "Atrium"
+    }
+  ],
+  "dcl": [
+    {
+      "ID": 66,
+      "Exhibit Name": "How does algae change our life?",
+      "Exhibit Description": "Illini Algae club will present what is algae, how we grow algae in our labs and what are various uses of algae.",
+      "URL": "http://algae.illinois.edu/index.html",
+      "Building": "Digital Computer Lab",
+      "Room": 1310
+    },
+    {
+      "ID": 67,
+      "Exhibit Name": "Lego Limbs: Prosthetics Built from Legos",
+      "Exhibit Description": "We make the concepts of prosthetic limbs more accessible to younger audiences through an interactive presentation on basic biomechanical properties and their associations with prosthetic limbs. In this exhibit children will be allowed to, with some guidance, build their own prosthetic models out of Lego toys. This will allow for a hands on experience with the properties which allow prosthetic limbs to work while also providing a fun activity which stimulates creative thinking and problem solving.",
+      "URL": "https://www.bmes-uiuc.com/",
+      "Building": "Digital Computer Lab",
+      "Room": "Atrium"
+    },
+    {
+      "ID": 68,
+      "Exhibit Name": "An Inkceptional Exploration of Tattoo Innovation",
+      "Exhibit Description": "Exploring different approaches, removal, and uses of tattoos. See how tattoos interact with the body!",
+      "URL": "https://www.bmes-uiuc.com/",
+      "Building": "Digital Computer Lab",
+      "Room": "Atrium"
+    },
+    {
+      "ID": 71,
+      "Exhibit Name": "Drug Measurement",
+      "Exhibit Description": "A device/method to compute the exact amount of drug for a patient after diagnostic based on various parameters.",
+      "URL": "https://www.bmes-uiuc.com/",
+      "Building": "Digital Computer Lab",
+      "Room": "Atrium"
+    },
+    {
+      "ID": 72,
+      "Exhibit Name": "Re-engineering Education: 3D-printed Anatomy and Physiology Models",
+      "Exhibit Description": "With prices in the range of hundreds of dollars, anatomical\nmodels are an expensive educational investment -- we hope\nto remedy this issue. Using MRI scans and modeling\nsoftware, we have created a variety of 3D printed models that\nhave been used by local high school students to improve their\nanatomy and physiology education. These printed models are\nsignificantly more affordable than existing commercial\nmodels, yet still maintain anatomical accuracies. For EOH,\nwe seek to display the full range of models we have created\nfor this outreach project. Supplementary information shall be\nprovided that details the creation of STL files from\npatient-derived MRI data and optimization of printing.",
+      "URL": "http://bmes.ec.illinois.edu/",
+      "Building": "Digital Computer Lab",
+      "Room": "Atrium"
+    },
+    {
+      "ID": 78,
+      "Exhibit Name": "Gait Analyzer",
+      "Exhibit Description": "A person’s gait is the specific way in which a person walks. Gait analysis machines are used to measure stride length and other gait-related variables, often to diagnose abnormalities. Although gait analyzing techniques exist, they are often involve expensive machinery and are confined to hospitals. This project aims to create a gait analyzing system that can be portable, inexpensive, and accurate when measuring various parameters. Stop by to understand one of the most important activities of your everyday life!",
+      "URL": "http://bmes.ec.illinois.edu/",
+      "Building": "Digital Computer Lab",
+      "Room": 1310
+    },
+    {
+      "ID": 80,
+      "Exhibit Name": "Growing Prosthetic",
+      "Exhibit Description": "Young prosthetic users continuously need to buy new prosthetics to accommodate changes in the residual limb due to growth. Sometimes, this is not financially viable for some families because prosthetic components are very expensive. This project aims to design a cheaper prosthetic arm that fits the child as he or she grows while maintaining gripping functionality. Elements of the design will be 3D printed.",
+      "URL": "http://bmes.ec.illinois.edu/",
+      "Building": "Digital Computer Lab",
+      "Room": "Atrium"
+    },
+    {
+      "ID": 84,
+      "Exhibit Name": "3D Printed Knee Model",
+      "Exhibit Description": "Anatomical models of the human body have proved to be an important aspect in education, because children can visualize and interact with the model. We are creating an anatomical model of the knee, which allows children to understand diseases that affect the knee. Come visit our booth to learn about the knee and issues affecting the knee such as ACL tears and cartilage degeneration.",
+      "URL": "https://www.bmes-uiuc.com/",
+      "Building": "Digital Computer Lab",
+      "Room": "Atrium"
+    },
+    {
+      "ID": 86,
+      "Exhibit Name": "Quest Through The Cell",
+      "Exhibit Description": "Ever wonder what it’s like on the inside of a cell? The organism that makes up your very own body and everything around you? Because now you can find out! Our demonstration focuses on showing what the functions and internal environment of a cell are like. The goal is to teach people about the different parts of the cell through an interactive demonstration and show them visually how different components work with each other through a life size view of the inside of a cell.",
+      "URL": "https://www.bmes-uiuc.com/",
+      "Building": "Digital Computer Lab",
+      "Room": 1265
+    },
+    {
+      "ID": 87,
+      "Exhibit Name": "Disease Algorithm App",
+      "Exhibit Description": "Everyone dreads the flu season: that time of year around fall and winter when the flu starts to spread. For each region in the country it varies when the flu virus makes its appearance. Our project is a mobile application that models previous disease outbreaks in a local area. An algorithm will then predict when the next wave of that certain disease will strike that area and push out notifications to the user.",
+      "URL": "https://www.bmes-uiuc.com",
+      "Building": "Digital Computer Lab",
+      "Room": "Atrium"
+    },
+    {
+      "ID": 88,
+      "Exhibit Name": "Fluorescence",
+      "Exhibit Description": "Current research in the fluorescence, their techniques and limitations, and its application to cancer detection",
+      "URL": "https://www.bmes-uiuc.com/",
+      "Building": "Digital Computer Lab",
+      "Room": "Atrium"
+    },
+    {
+      "ID": 92,
+      "Exhibit Name": "Not Your Basic Wheelchair",
+      "Exhibit Description": "UIC’s Specialized Care for Children Program is a statewide program that serves children and youth with special healthcare needs and their families. In this project, we worked with a 11 year old boy with cerebral palsy to design and integrate a system into his existing wheelchair. This sensor system will detect proper positioning of the patient as well as low tire pressure to prevent pressure sores, promote good posture, and prevent wheelchair mobility issues. Check out our exhibit to learn more!",
+      "URL": "https://www.bmes-uiuc.com",
+      "Building": "Digital Computer Lab",
+      "Room": "Atrium"
+    },
+    {
+      "ID": 93,
+      "Exhibit Name": "Becoming a Superhero",
+      "Exhibit Description": "Have you ever wondered what it would take to become a superhero in real life? Stop by to learn about the engineering behind popular superheroes, learn how the technology can be applied in the real world, and play fun games with super powers of your own!",
+      "URL": "https://www.bmes-uiuc.com/",
+      "Building": "Digital Computer Lab",
+      "Room": "Atrium"
+    },
+    {
+      "ID": 95,
+      "Exhibit Name": "Control the World with Your Mind (EEG)",
+      "Exhibit Description": "Imagine driving a car, controlling home appliances, and playing songs on your phone based on your focus or mood-- all with just your brain. With an EEG headset, your brain waves can trigger a variety of actions that make execution of tasks easier and more efficient. Enabling one of the most advanced levels of human-control, EEG wearables can give us new ways to interact with the world around us. Stop by our booth to try one out and experience just how much potential your brain has!",
+      "URL": "https://www.bmes-uiuc.com/",
+      "Building": "Digital Computer Lab",
+      "Room": "Atrium"
+    },
+    {
+      "ID": 96,
+      "Exhibit Name": "Music to my Brain",
+      "Exhibit Description": "Like Music? Like Medicine? We’re using electroencephalograms (EEG’s) to check brain activity in response to music. Come out and see how your brain dances to your favorite song! Join us in this unique adventure as we look into music’s potential application in the medical field!",
+      "URL": "https://www.bmes-uiuc.com",
+      "Building": "Digital Computer Lab",
+      "Room": "Atrium"
+    },
+    {
+      "ID": 97,
+      "Exhibit Name": "DNA Origami",
+      "Exhibit Description": "Come explore how the shape of DNA is changing our world today! By taking advantage of base pairing, DNA can now be self-assembled into controlled 2D and 3D structures, such as smiley faces and rabbits. These DNA structures can be used as drug delivery vehicles that are pushing the boundaries of bioengineering and medicine. Stop by to see DNA Origami for yourself and try our base pairing puzzles!",
+      "URL": "http://bmes.ec.illinois.edu/",
+      "Building": "Digital Computer Lab",
+      "Room": "Atrium"
+    },
+    {
+      "ID": 98,
+      "Exhibit Name": "HeatSense Glove",
+      "Exhibit Description": "Arduino powered firefighter’s glove used to check the temperature of objects and obstacles at a distance. It will provide relevant biometric and temperature information displayed real-time to the firefighter on a screen at the back of the hand.",
+      "URL": "http://bmes.ec.illinois.edu/",
+      "Building": "Digital Computer Lab",
+      "Room": "Atrium"
+    },
+    {
+      "ID": 101,
+      "Exhibit Name": "Med-VR",
+      "Exhibit Description": "Virtual Reality (VR) is a 3D computer generated environment that can be interacted and explored by users. Stop by to experience and play with this new technology and see how it transforms the medical field and future education through visual learning with gaming applications !",
+      "URL": "http://bmes.ec.illinois.edu/",
+      "Building": "Digital Computer Lab",
+      "Room": 1265
+    },
+    {
+      "ID": 122,
+      "Exhibit Name": "Bubble Buddies",
+      "Exhibit Description": "Discover the world of nanobubbles, tiny lipid bubbles that are used by engineers to accomplish all sorts of tasks. Learn how nanobubbles are made, and find out how they are being used by researchers to treat things like cancer and glaucoma. Then, learn what it’s like to hold a nanobubble with our dry ice simulation!",
+      "URL": "http://bmes.ec.illinois.edu/",
+      "Building": "Digital Computer Lab",
+      "Room": "Atrium"
+    },
+    {
+      "ID": 124,
+      "Exhibit Name": "HIV and DNA",
+      "Exhibit Description": "HIV is the virus that leads to AIDS, and it works by changing human DNA. Come to learn about how HIV and DNA work, HIV’s impact on the LGBT+ community, and a gay professor working to improve HIV/AIDS therapy. Visitors can also participate in a fun, interactive experiment to extract DNA from strawberries!",
+      "URL": "http://ostemillinois.org",
+      "Building": "Digital Computer Lab",
+      "Room": 1310
+    },
+    {
+      "ID": 127,
+      "Exhibit Name": "StabiliTeeth",
+      "Exhibit Description": "People suffering from Parkinson’s disease, amyotrophic lateral sclerosis (ALS), post traumatic stress disorder (PTSD), and stroke often experience tremors. Consequently, daily tasks such as brushing teeth are often very difficult due to the lack of control and stability in these patient’s hands. Currently, there are a few solutions that make these tasks easier, but they are expensive and can be more effective. Furthermore, there is no device on the market that makes brushing teeth easier… until now!",
+      "URL": "https://publish.illinois.edu/stabiliteeth/",
+      "Building": "Digital Computer Lab",
+      "Room": "Atrium"
+    },
+    {
+      "ID": 130,
+      "Exhibit Name": "Special Delivery: It's Drugs!",
+      "Exhibit Description": "Hydrogel, microbubble, and nanoparticle drug delivery devices lie at the cutting edge of smart drug delivery. By extending drug lifespans within the body and localizing drugs to specific organs, these modalities have great potential to change the paradigm of drug delivery. In this exhibit, we show interactive, macro-scale demonstrations of these three technologies in action, to help visualize what’s going on when these drug modalities are at work in the body.",
+      "URL": "http://bmes.ec.illinois.edu/",
+      "Building": "Digital Computer Lab",
+      "Room": "Atrium"
+    },
+    {
+      "ID": 134,
+      "Exhibit Name": "DNA Extraction",
+      "Exhibit Description": "A fun, easy lab that provides provides people with a hands on demonstration on how to isolate the otherwise invisible DNA.",
+      "URL": "https://www.bmes-uiuc.com",
+      "Building": "Digital Computer Lab",
+      "Room": "Atrium"
+    },
+    {
+      "ID": 137,
+      "Exhibit Name": "Engineering Your Mind",
+      "Exhibit Description": "Neural engineering, or neuroengineering, harnesses cutting-edge bioengineering to bring our brains and technology together. From neural therapies to neuroregeneration, neuroprosthetics, brain-computer interfaces and more, neural engineering allows us to tap into the power of our minds. Thus, by turning our brain into a tool that can be modified to improve our health and wellbeing, neural engineering heralds a significant advance in modern medicine. Come by our booth to check out how neural engineering is changing the world - one brain at a time!",
+      "URL": "http://bmes.ec.illinois.edu/",
+      "Building": "Digital Computer Lab",
+      "Room": "Atrium"
+    },
+    {
+      "ID": 138,
+      "Exhibit Name": "Bacteria Blasters",
+      "Exhibit Description": "Blast your way through infection in the new iOS game, Bacteria Blasters! Play as an microscopic antibiotic fighting off waves of increasingly resistant bacteria in this retro-style adventure.",
+      "URL": "http://www.bmes-uiuc.com",
+      "Building": "Digital Computer Lab",
+      "Room": "Atrium"
+    },
+    {
+      "ID": 156,
+      "Exhibit Name": "Stitch-o-matic: The future of surgical care",
+      "Exhibit Description": "Suturing is a time-intensive, skill-dependent task necessary in surgeries.  Our project aims to create an automated suturing device, practical for stitching continuously and easily convertible for different tissue types. Additionally, we aim to educate visitors on existing efforts in automated suturing. Come to our booth to see the device at work, learn about existing efforts in automated suturing, and test your surgical skills against our machine!",
+      "URL": "https://www.bmes-uiuc.com/",
+      "Building": "Digital Computer Lab",
+      "Room": "Atrium"
+    },
+    {
+      "ID": 185,
+      "Exhibit Name": "BMES Canine EMS Design Team",
+      "Exhibit Description": "We're designing a mobile application to help EMS personnel treat police K9s injured in the line of duty.",
+      "URL": "https://www.bmes-uiuc.com/",
+      "Building": "Digital Computer Lab",
+      "Room": "Atrium"
+    },
+    {
+      "ID": 210,
+      "Exhibit Name": "Immunoengineering: Using the Body to Fight Disease",
+      "Exhibit Description": "The body is an extraordinary thing; a machine with the ability to move, think, and protect itself from outside invaders. One of the ways the body protects itself from pathogens is through the immune system. With new scientific advancements and a better understanding of how these things work, scientists have developed ways to use the body's immune system to fight diseases and ailments like cancer and infectious diseases. Our project aims to show you how these treatments work through 3D models of different immune therapies to help visualize how these treatments work.",
+      "URL": "http://bmes.ec.illinois.edu/",
+      "Building": "Digital Computer Lab",
+      "Room": "Atrium"
+    }
+  ],
+  "tb": [
+    {
+      "ID": 105,
+      "Exhibit Name": "Supply Chain Maze",
+      "Exhibit Description": "Supply chain maze is an exhibit predominantly for elementary and middle school kids, but it also can apply to an older audience too. The maze has been a tradition of IISE for the past several years and has always been a success. First, we construct a maze within a classroom in the Transportation Building with cardboard and other items that kids can run through from start to finish. However, there are many different ways you can get to the finish line, and some are better (and more efficient) than others. Different paths are labeled with different prices to cross, and it is the kids’ job to get to the finish line spending as little money as possible. The more you save, the more candy you are rewarded at the finish line.",
+      "URL": "https://iiseuiuc.wordpress.com",
+      "Building": "Transportation Building",
+      "Room": 204
+    },
+    {
+      "ID": 106,
+      "Exhibit Name": "Egg Drop Competition",
+      "Exhibit Description": "The egg drop competition has normally been run by a group named INFORMS, but now it will be run by IISE as INFORMS hasn’t been active lately. The competition mostly applies to elementary and middle school kids, but honestly anyone can participate. We provide nearly all the supplies you could think of to try to protect your egg as you will drop it from the third floor of the transportation building to the ground. Each item that you protect your egg with costs a certain amount of money, and the game is to protect the egg while spending as little as possible. If you successfully dropped your egg to the ground (undamaged), you receive prizes.",
+      "URL": "https://iiseuiuc.wordpress.com",
+      "Building": "Transportation Building",
+      "Room": "202 & 203"
+    },
+    {
+      "ID": 198,
+      "Exhibit Name": "Illini Hyperloop",
+      "Exhibit Description": "Illini Hyperloop's design for future SpaceX Hyperloop Pod competitions",
+      "URL": "https://illinihyperloop.com/",
+      "Building": "Transportation Building",
+      "Room": "Lawn between Transportation Building and MEB"
+    },
+    {
+      "ID": 209,
+      "Exhibit Name": "A pipe crawling robot",
+      "Exhibit Description": "A soft pneumatic robot that crawls up a pipe.",
+      "URL": "https://monolithicsystemslab.ise.illinois.edu",
+      "Building": "Transportation Building",
+      "Room": 206
+    }
+  ],
+  "ventechow": [
+    {
+      "ID": 117,
+      "Exhibit Name": "Wave attenuation by vegetation",
+      "Exhibit Description": "Come to experience how water waves and aquatic vegetation shape our beaches and lakes. The purpose of this exhibit is to teach visitors in a simple way about the complex interaction between plants and waves. Also, it shows the eco-engineering consequence of this interaction; like in sediment and pollutant transport. This exhibit presents models of aquatic ecosystems dominated by waves: beaches, estuaries, and lakes.",
+      "URL": "https://sites.google.com/site/uiuciahriwra/",
+      "Building": "Ven Te Chow Hydrosystems Laboratory",
+      "Room": "Main Laboratory"
+    },
+    {
+      "ID": 125,
+      "Exhibit Name": "Wind Tunnel",
+      "Exhibit Description": "This exhibit allows you to see flow patterns around objects (sphere, cars, wings). Understanding the interactions between a solid object and its surroundings medium is critical for designing more fuel-efficient, faster, and safer vehicles whether on the air, the water, or on the road.",
+      "URL": "https://sites.google.com/site/uiuciahriwra/",
+      "Building": "Ven Te Chow Hydrosystems Laboratory",
+      "Room": "Main Laboratory"
+    },
+    {
+      "ID": 126,
+      "Exhibit Name": "Fluid Mechanics 101",
+      "Exhibit Description": "At Hydrosystems water is our business. Come to this exhibit to explore the fundamental properties of fluids through simple experiments.",
+      "URL": "https://sites.google.com/site/uiuciahriwra/",
+      "Building": "Ven Te Chow Hydrosystems Laboratory",
+      "Room": "Main Laboratory"
+    },
+    {
+      "ID": 128,
+      "Exhibit Name": "Food for Thought",
+      "Exhibit Description": "Attendees use up to date technology to learn how much water is involved in the food they eat! Hydro students work together with Education students to give attendees this interactive iPad app experience.",
+      "URL": "https://sites.google.com/site/uiuciahriwra/",
+      "Building": "Ven Te Chow Hydrosystems Laboratory",
+      "Room": "Main Laboratory"
+    },
+    {
+      "ID": 167,
+      "Exhibit Name": "SeaPerch Underwater Robots",
+      "Exhibit Description": "Participants will get first-hand experience with SeaPerch submarine robots and learn more about a science competition for middle and high school students.",
+      "URL": "https://sites.google.com/site/uiuciahriwra/home",
+      "Building": "Ven Te Chow Hydrosystems Laboratory",
+      "Room": "Main Laboratory"
+    },
+    {
+      "ID": 168,
+      "Exhibit Name": "Sandbox Hydrology",
+      "Exhibit Description": "This educational sandbox + flow table model is all about hydrology. We can design a sandy landscape to increase or decrease surface runoff, ponding areas, and infiltration rates to recharge the underlying aquifers.",
+      "URL": "https://sites.google.com/site/uiuciahriwra/home",
+      "Building": "Ven Te Chow Hydrosystems Laboratory",
+      "Room": "Main Laboratory"
+    },
+    {
+      "ID": 169,
+      "Exhibit Name": "Tunnel and Reservoir Plan Model",
+      "Exhibit Description": "As a very large and old city, Chicago still uses sewer pipes which contain both sanitary and stormwater flows; these are known as a combined sewers. Strong rainfall events may overload the urban drainage system, the rainfall excess may flood basements, streets and lower building levels. To mitigate these effects the City Of Chicago designed and built deep tunnels and gigantic reservoirs (TARP) where rainfall excess is stored. In this manner engineers can regulate the inflows of sewage to the water treatment plans during extreme rainfall events. This MegaProject has reduced dramatically the frequency and volume of untreated sewer overflows discharged to the environment (Chicago River and Lake Michigan). U of I students have built a scaled model of TARP for one of our classes. Come and see what engineers can do to alleviate urban flooding hazards!",
+      "URL": "https://sites.google.com/site/uiuciahriwra/home",
+      "Building": "Ven Te Chow Hydrosystems Laboratory",
+      "Room": "Main Laboratory"
+    },
+    {
+      "ID": 170,
+      "Exhibit Name": "Little big river",
+      "Exhibit Description": "This unique meandering flume will allow you to explore the hydrodynamics of big rivers and how they affect human activities (ex. navigation, erosion/sedimentation control).",
+      "URL": "https://sites.google.com/site/uiuciahriwra/home",
+      "Building": "Ven Te Chow Hydrosystems Laboratory",
+      "Room": "Main Laboratory"
+    },
+    {
+      "ID": 171,
+      "Exhibit Name": "Under Pressure: Exploding Popsicle Sticks",
+      "Exhibit Description": "This exhibit is designed as an immersive experience for EOH attendees. Attendees will take part in constructing a giant popsicle stick bomb that will simulate the power of pressure, releasing waves of sticks and demonstrating how one little move can cause a whole chain reaction of events. Attendees can build obstacles such as dams and bridges that will react differently and \"blow up\" upon the release of tension. At the end of the day, we will set the sticks off and attendees can see in person or remotely online how their section of the bomb went off.",
+      "URL": "https://sites.google.com/site/uiuciahriwra/home",
+      "Building": "Ven Te Chow Hydrosystems Laboratory",
+      "Room": 1518
+    },
+    {
+      "ID": 172,
+      "Exhibit Name": "Hazards of a Modern Spillway",
+      "Exhibit Description": "Spillway dams are very common in Illinois, but very dangerous. Do you know why?",
+      "URL": "https://sites.google.com/site/uiuciahriwra/home",
+      "Building": "Ven Te Chow Hydrosystems Laboratory",
+      "Room": "Main Laboratory"
+    },
+    {
+      "ID": 174,
+      "Exhibit Name": "Groundwater Flow Model",
+      "Exhibit Description": "In this exhibit you can see how water flows underneath the Earth's surface. Just as water moves on the surface through rivers, lakes, and oceans, it is also constantly moving below the surface. Humans withdraw groundwater for irrigation, drinking water, and industrial applications; these withdrawals can impact groundwater essential for irrigation, human consumption, industry, and the streams.",
+      "URL": "https://sites.google.com/site/uiuciahriwra/home",
+      "Building": "Ven Te Chow Hydrosystems Laboratory",
+      "Room": "Main Laboratory"
+    }
+  ],
+  "meb": [
+    {
+      "ID": 141,
+      "Exhibit Name": "Illini Motorsports",
+      "Exhibit Description": "Illini Motorsports is a Formula SAE team that designs and builds an open wheel formula style race car powered by an internal combustion engine and competes in international competitions every year.",
+      "URL": "http://motorsports.illinois.edu",
+      "Building": "Mechanical Engineering Building",
+      "Room": "East Lawn"
+    }
+  ],
+  "cslstudio": [
+    {
+      "ID": 142,
+      "Exhibit Name": "Robotic Surgery",
+      "Exhibit Description": "Interactive demonstration of medical robotics. Visitors will see how robots are changing the way surgery is performed. Visitors will be able to control a surgical robot and experience what a surgeon does in the operating room. See how the RoSS Virtual Reality Simulator is being used to train the next generation of medical professionals.",
+      "URL": "http://healtheng.illinois.edu/",
+      "Building": "CSL Studio",
+      "Room": 1205
+    },
+    {
+      "ID": 157,
+      "Exhibit Name": "MSTE Electronics Display",
+      "Exhibit Description": "CREDC research on the power grid, cyber security, the Internet of Things, and how smart devices interconnect.",
+      "URL": "https://mste.illinois.edu/",
+      "Building": "CSL Studio",
+      "Room": "1263 & 1264"
+    },
+    {
+      "ID": 159,
+      "Exhibit Name": "Personal Sound Zones",
+      "Exhibit Description": "Come experience headphone-free personal audio with the SWING research group. We will demonstrate a novel way to privately deliver multiple audio signals to various spots inside our demo room.",
+      "URL": "http://None",
+      "Building": "CSL Studio",
+      "Room": 1251
+    },
+    {
+      "ID": 182,
+      "Exhibit Name": "CyPhyHouse: A Distributed Robotics Framework",
+      "Exhibit Description": "If we are able to reserve the flight arena in CSL Studio, we will show a small-scale car and drone autonomously driving/flying using our custom software tools. In either case, we will prepare slides or a video that describes the motivation/application of distributed robotics, highlights challenges in development, and demonstrates our proposed design process that will make these robotic platforms more accessible for researchers/engineers/community members.",
+      "URL": "https://cyphyhouse.github.io/",
+      "Building": "CSL Studio",
+      "Room": "Flight Arena"
+    },
+    {
+      "ID": 186,
+      "Exhibit Name": "Mobile Robotics Arena",
+      "Exhibit Description": "We will demonstrate mapping and navigation of Linux-powered robots.",
+      "URL": "http://robotics.illinois.edu",
+      "Building": "CSL Studio",
+      "Room": 1258
+    },
+    {
+      "ID": 188,
+      "Exhibit Name": "Listen Up (Or Down): The Technology of Directional Listening",
+      "Exhibit Description": "Wouldn't it be nice to shut out all the noise and only hear the person you're talking to? Directional listening technologies, from simple ear horns to cutting-edge microphone arrays, let us focus on the sounds we want to hear. Visitors will learn about hearing health and the technologies that can help people hear better.",
+      "URL": "http://ryanmcorey.com",
+      "Building": "CSL Studio",
+      "Room": 1232
+    },
+    {
+      "ID": 189,
+      "Exhibit Name": "Petronics",
+      "Exhibit Description": "Petronics is a robotics company spun out of the university by ECE graduate students. We will be exhibiting our first product, Mousr, an autonmous robot for cats, as well as cutting edge research in home robotics funded by the National Science Foundation.",
+      "URL": "http://www.petronics.io",
+      "Building": "CSL Studio",
+      "Room": 1232
+    },
+    {
+      "ID": 193,
+      "Exhibit Name": "Grain Quality Monitoring and  Farmer Communication System for the Reduction of Postharvest Loss",
+      "Exhibit Description": "Temporary Exhibit Description - - - The world food supply needs to continue  increasing to keep up with the growing population.  One way is to reduce the amount of food loss during farming in developing countries.  See how educating small farmers, that may not have running water or stable electricity,  to use new information, communication and sensor technologies can assist them in preventing significant losses of the grain they produce.",
+      "URL": "http://- What will the purpose of the links be? -",
+      "Building": "CSL Studio",
+      "Room": 1232
+    }
+  ],
+  "nhb": [
+    {
+      "ID": 150,
+      "Exhibit Name": "Journey through the Amazon River",
+      "Exhibit Description": "Take a journey through the depths of the Amazon River and see what lies at the bottom of the World's largest river!",
+      "URL": "http://geology.illinois.edu",
+      "Building": "Natural History Building",
+      "Room": 1066
+    },
+    {
+      "ID": 183,
+      "Exhibit Name": "Watching Sedimentary Rocks Form",
+      "Exhibit Description": "How do sandstones form and what do they look like? Come and see a thin water channel and observe how water moves sediment, and see sedimentary rocks forming in front of your eyes. Then look to see what these sediments look like in rocks hundreds of millions of years old!",
+      "URL": "http://geology.illinois.edu",
+      "Building": "Natural History Building",
+      "Room": 1066
+    }
+  ],
+  "mntl": [
+    {
+      "ID": 224,
+      "Exhibit Name": "Micro and Nanotechnology Laboratory Tour",
+      "Exhibit Description": "See how computer chips are made at the Micro and Nanotechnology Laboratory.  Tours will start promptly on Friday at 9am, 10am, 11am, 1pm, 2pm, and 3pm.  Take a quiz to see how much you know about how nanotechnology, which exists everywhere in our lives and affects more than just computer chips.",
+      "URL": "#",
+      "Building": "MNTL",
+      "Room": "North Entrance Lobby"
+    }
+  ]
+}

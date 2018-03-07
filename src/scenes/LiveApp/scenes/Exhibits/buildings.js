@@ -6,10 +6,28 @@ const Buildings = [
     lng: -88.228103,
   },
   {
+    name: 'Bardeen Quad',
+    code: 'equad',
+    lat: 40.111733,
+    lng: -88.226906,
+  },
+  {
     name: 'Engineering Hall',
     code: 'ehall',
     lat: 40.110906,
     lng: -88.227000,
+  },
+  {
+    name: 'Grainger Loading Dock',
+    code: 'grainger',
+    lat: 40.112541,
+    lng: -88.226960,
+  },
+  {
+    name: 'Observatory',
+    code: 'observatory',
+    lat: 40.105273,
+    lng: -88.225996,
   },
   {
     name: 'Talbot Laboratory',
@@ -46,6 +64,42 @@ const Buildings = [
     code: 'siebel',
     lat: 40.113852,
     lng: -88.224884,
+  },
+  {
+    name: 'Ven Te Chow Hydrosystems Laboratory',
+    code: 'ventechow',
+    lat:  40.114849,
+    lng: -88.226068,
+  },
+  {
+    name: 'CSL Studio',
+    code: 'cslstudio',
+    lat:  40.115592,
+    lng: -88.224856,
+  },
+  {
+    name: 'National Center for Supercomputing Applications',
+    code: 'ncsa',
+    lat:  40.114957,
+    lng: -88.224820,
+  },
+  {
+    name: 'Transportation Building',
+    code: 'tb',
+    lat:  40.111837,
+    lng: -88.225229,
+  },
+  {
+    name: 'Mechanical Engineering Laboratory',
+    code: 'mel',
+    lat:  40.111828,
+    lng: -88.226117,
+  },
+  {
+    name: 'Micro and Nanotechnology Laboratory',
+    code: 'mntl',
+    lat: 40.113957,
+    lng: -88.227865
   }
 ];
 
