@@ -102,7 +102,7 @@
       "Exhibit Description": "IRIS will be demonstrating the dissection of our autonomy and path planning algorithms by displaying what our robot actually sees. From there, we will display our robot with limited mobility (I.e.: no driving, but several moving parts).",
       "URL": "http://iris.ae.illinois.edu/outreach/, https://www.facebook.com/IllinoisRoboticsInSpace/",
       "Building": "Talbot Lab",
-      "Room": "201?"
+      "Room": "201"
     },
     {
       "ID": 166,
@@ -111,6 +111,14 @@
       "URL": "http://verl.npre.illinois.edu",
       "Building": "Talbot Lab",
       "Room": 135
+    },
+    {
+      "ID": 966,
+      "Exhibit Name": "Concrete Crusher",
+      "Exhibit Description": "Come witness EOH’s largest compression test as Dr. Phillips and SEM crush concrete slabs with over 1,500,000 lbs of force!",
+      "URL": "https://mechanical.illinois.edu/blogs/iron-giant",
+      "Building": "Talbot Lab",
+      "Room": "Basement"
     }
   ],
   "ehall": [

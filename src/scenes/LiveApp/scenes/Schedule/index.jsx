@@ -47,15 +47,6 @@ class Schedule extends Component {
           <TimePoint>
             <TimeElement
               top
-              label="High School Design Competition"
-              time="8:30 AM"
-              location="ECEB 3002"
-              eventID="hsdc"
-            />
-          </TimePoint>
-          <TimePoint>
-            <TimeElement
-              top
               label="Exhibiting Hours Begin"
               time="9:00 AM"
               location="All Buildings"
@@ -79,6 +70,15 @@ class Schedule extends Component {
               label="Startup Showcase"
               location="Siebel Atrium"
               eventID="startup"
+            />
+          </TimePoint>
+          <TimePoint>
+            <TimeElement
+              top
+              label="High School Design Competition"
+              time="9:30 AM"
+              location="ECEB 3002"
+              eventID="hsdc"
             />
           </TimePoint>
           <TimePoint>
