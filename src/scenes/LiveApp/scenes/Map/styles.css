@@ -18,3 +18,29 @@
 .map .parking-list > ul > li {
   margin-bottom: 1.1rem;
 }
+
+.shuttle, .shuttle-desc {
+  margin-top: 1.7rem;
+}
+
+.shuttle .shuttle-row {
+  height: 34px;
+}
+
+.shuttle .shuttle-row > td,
+.shuttle .shuttle-row > th {
+  padding: 0;
+  text-align: center;
+  font-size: 1.2rem;
+  width: 25%;
+}
+
+.shuttle .shuttle-row > th {
+  color: black;
+  font-weight: 800;
+  font-size: 1.1rem;
+}
+
+.shuttle .shuttle-row.times:nth-child(even) {
+  background-color: #f2f2f2;
+}

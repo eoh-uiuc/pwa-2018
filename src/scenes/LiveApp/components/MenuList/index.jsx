@@ -6,8 +6,8 @@ import Typography from 'material-ui/Typography';
 import ScheduleIcon from 'material-ui-icons/Event';
 import CarIcon from 'material-ui-icons/DirectionsCar';
 import BuildIcon from 'material-ui-icons/Build';
-// import FAQIcon from 'material-ui-icons/HelpOutline';
 import InfoIcon from 'material-ui-icons/InfoOutline';
+import MusicNoteIcon from 'material-ui-icons/MusicNote';
 
 const ListText = (props) => {
   const styles = {
@@ -33,7 +33,7 @@ const MenuStyles = {
 
 const LogoStyles = {
   width: '100%',
-  margin: '50px 0',
+  margin: '0 0 13px 0',
 };
 
 const MenuList = (props) => {
@@ -55,6 +55,13 @@ const MenuList = (props) => {
 
       <ListItem button>
         <ListItemIcon>
+          <MusicNoteIcon />
+        </ListItemIcon>
+        <ListText to="/performances" text="Performances" />
+      </ListItem>
+
+      <ListItem button>
+        <ListItemIcon>
           <BuildIcon />
         </ListItemIcon>
         <ListText to="/exhibits" text="Exhibits" />
@@ -64,7 +71,7 @@ const MenuList = (props) => {
         <ListItemIcon>
           <CarIcon />
         </ListItemIcon>
-        <ListText to="/map" text="Parking" />
+        <ListText to="/map" text="Parking & Shuttle" />
       </ListItem>
 
       <ListItem button>
@@ -73,13 +80,6 @@ const MenuList = (props) => {
         </ListItemIcon>
         <ListText to="/information" text="Information" />
       </ListItem>
-
-      {/* <ListItem button>
-        <ListItemIcon>
-          <FAQIcon />
-        </ListItemIcon>
-        <ListText to="/faq" text="FAQ" />
-      </ListItem> */}
     </List>
   );
 };

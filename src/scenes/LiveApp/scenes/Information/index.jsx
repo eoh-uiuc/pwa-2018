@@ -34,7 +34,8 @@ class Information extends Component {
             </div>
           </QA>
           <QA question="Missing Child">
-            Please report any case of a missing child to the EOH Central Committee tent on North of Talbot Lab. Our volunteers throughout campus will be notified to keep a lookout for the lost child, or parents of the lost child.
+            Please report any case of a missing child to the EOH Central Committee tent on North of Talbot Lab.
+            Our volunteers throughout campus will be notified to keep a lookout for the lost child, or parents of the lost child.
           </QA>
           <QA question="Injuries">
             In any case of injury, immediately notify nearby volunteer and go to the Illini Emergency Medical Services (IEMS) at the North-West corner on Bardeen.
@@ -45,8 +46,17 @@ class Information extends Component {
               <p><a href={getMapsURL(presAddr)}>Presence Covenant Medical Center</a></p>
             </div>
           </QA>
+          <QA question="Tours">
+            <div>
+              <p>Have an engineering student tour guide show you the best side of campus and EOH.</p>
+              <p>Tours are on both Friday and Saturday from 9 AM - 4 PM. Tours begin on the Quad side of Grainger
+                library and last 30 minutes</p>
+            </div>
+          </QA>
           <QA question="Lost and Found">
-            Any missing items can be brought to lost and found at the EOH Central Committee tent at North Talbot Lawn between 9am and 4pm on Friday and Saturday (during EOH hours), or at the Engineering Council office (Engineering Hall 103C) at any other time.
+            Any missing items can be brought to lost and found at the EOH Central Committee tent at North Talbot Lawn
+            between 9am and 4pm on Friday and Saturday (during EOH hours), or at the Engineering Council office
+            (Engineering Hall 103C) at any other time.
           </QA>
           <QA question="Merchandise">
             Commemorate your trip to EOH by finding EOH and Illini gear from the entertainment tent (North side of Talbot Lab)!

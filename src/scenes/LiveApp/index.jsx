@@ -17,6 +17,7 @@ import Event from './scenes/Event';
 import Exhibits from './scenes/Exhibits';
 import Building from './scenes/Building';
 import FAQ from './scenes/FAQ';
+import FoodTrucks from './scenes/Foodtrucks';
 
 import Information from './scenes/Information';
 import Map from './scenes/Map';
@@ -118,13 +119,14 @@ class LiveApp extends Component {
 
         <div className="container">
           <Route path="/" exact component={Schedule} />
+          <Route path="/performances" exact component={Schedule} />
           <Route path="/event/:eventID" component={Event} />
           <Route path="/exhibits" exact component={Exhibits} />
           <Route path="/exhibits/:buildingID" component={Building} />
           <Route path="/faq" component={FAQ} />
           <Route path="/information" component={Information} />
           <Route path="/map" component={Map} />
-          <Route path="/schedule" component={Map} />
+          <Route path="/foodtrucks" component={FoodTrucks} />
         </div>
       </div>
     );

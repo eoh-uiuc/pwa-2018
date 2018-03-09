@@ -1,21 +1,21 @@
 export const events = {
   hsdc: {
     title: 'High School Design Competition',
-    time: 'Friday 8:30 AM - 2:00 PM',
+    time: 'Friday 9:30 AM - 2:00 PM',
     location: 'ECEB 3002',
     image: 'rube_goldberg.jpg',
     body: 'The High School Design contest is a regional competition for the annual national Rube Goldberg machine competition by Rube Goldberg Inc. High school students from all around the area have teamed up to build a Rube Goldberg machine to compete at our competition. A Rube Goldberg machine is a contraption/device made to perform a simple task in an overly complicated manner, often including chain reactions and numerous steps. Feel free to stop by to see all the different teams designs!'
   },
   keynote: {
     title: 'Keynote: Parisa Tabriz',
-    time: 'Friday 4:30 PM - 6:00 PM',
+    time: 'Friday 4:30 PM - 5:30 PM',
     location: 'ECEB 1002',
     image: 'parisa.jpg',
     body: 'Parisa Tabriz graduated from the University of Illinois with a Bachelors of Science in Computer Science (2005) and a Master’s in Computer Science (2007). Parisa is now the Director of Engineering at Google, Inc. following her tenure as the Director of Security for Google Chrome. Parisa was recognized as a member of the “30 Under 30 to Watch in the Technology Industry” recognized by Forbes Magazine in 2012. As the “Security Princess,” Parisa was in charge of information security and has worked for the United States Digital Service and along members of the Defense Digital Service. Parisa is here for Engineering Open House to talk about the intersections between humanity and engineering.'
   },
   teslaCoilConcert: {
     title: 'Tesla Coil Concert',
-    time: 'Friday 7:30 PM - 9:00 PM',
+    time: 'Friday 7:30 PM',
     location: 'Bardeen Quad',
     image: 'teslaCoil.jpeg',
     body: 'We’re excited to announce that the Tesla Coil Concert is back this year! Just as dark falls, visit the Bardeen Quad to see an electrifying display of light and sound.'
@@ -67,6 +67,25 @@ export const events = {
     time: 'Friday/Saturday 9am - 4pm',
     location: 'Siebel Atrium',
     body: 'Startup Showcase is an exhibit at EOH that presents startup companies. These are groups that have spent countless hours developing their own ideas into a product and furthermore into a company. Come withness the innovation, inspiration and passion behind these bright ideas!'
+  },
+  discovereoh: {
+    title: 'Discover EOH',
+    time: 'Friday/Saturday 9am - 3pm',
+    location: 'Central Committee Tent',
+    image: 'exhibits.jpg',
+    body: 'Elementary and middle school kids, this event is just for you! Participate in Discover EOH, a scavenger hunt throughout EOH to find the best exhibits. Get stickers or signatures from the participating exhibitors, and once you have every participating exhibit signature, go to the Central Committee tent north of Talbot Lab.'
+  },
+  engchallenge: {
+    title: 'Illini Engineering Challenge',
+    time: 'Friday/Saturday 9am - 3pm',
+    location: 'Transportation Building, 303',
+    body: 'Here’s a chance for EVERYONE to work on an engineering project! The Illini Engineering Challenge is an onsite design challenge open to the general public, so everyone who attends EOH 2018 is welcome to participate. If you are interested in solving problems, please come and check it out!'
+  },
+  engmajor: {
+    title: 'Engineering Majors Fair',
+    time: 'Friday 12:00 PM - 3:00 PM',
+    location: 'Digital Computer Laboratory Basement',
+    body: 'Considering a future in engineering? Stop by the Engineering Majors Fair to learn more about different engineering programs available at the University of Illinois. Representatives from each Engineering Department, University Admissions, and University Housing have been invited to answer questions. Find out what is possible at Engineering at Illinois!'
   }
 }
 

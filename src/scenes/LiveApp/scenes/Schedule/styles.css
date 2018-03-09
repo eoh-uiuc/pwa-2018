@@ -1,3 +1,11 @@
+.schedule {
+  margin-top: 64px;
+}
+
+.schedule .description-wrapper {
+  text-align: center;
+}
+
 .day {
   color: white;
   font-size: 35px;

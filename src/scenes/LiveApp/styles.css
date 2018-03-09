@@ -10,7 +10,6 @@
 .page-title {
   display: flex;
   flex-direction: row-reverse;
-  justify-content: end;
   align-items: center;
   width: 100%;
 }

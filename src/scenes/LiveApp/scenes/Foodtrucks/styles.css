@@ -1,0 +1,23 @@
+.food h5 {
+  text-shadow: 1px 1px 8px black;
+}
+
+.food-card h4 {
+  color: black;
+  font-family: Roboto;
+  font-weight: 500;
+  font-size: 2rem;
+}
+
+.food-card p {
+  color: black;
+  margin-bottom: 0;
+}
+
+.food-card {
+  margin-bottom: 20px;
+}
+
+.food-card .food-link {
+  font-size: 1.2rem;
+}

@@ -2,9 +2,11 @@ import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import { withScriptjs, withGoogleMap, GoogleMap, Marker } from "react-google-maps"
 import Paper from 'material-ui/Paper';
+import Table, { TableBody, TableCell, TableHead, TableRow } from 'material-ui/Table';
 
 import { setPage } from 'services/AppBar/actions';
 import Popup from './components/Popup';
+import shuttleSchedule from './shuttles';
 
 import './styles.css';
 
@@ -13,6 +15,11 @@ const Parking = [
     name: 'Lot E14',
     lat: 40.096704,
     lng: -88.239492,
+  },
+  {
+    name: 'Garage B4',
+    lat: 40.115869,
+    lng: -88.224890,
   },
   {
     name: 'Lot B22',
@@ -76,7 +83,7 @@ const GMapContainer = withScriptjs(withGoogleMap(GMap));
 
 class Map extends Component {
   componentWillMount() {
-    this.props.setPage('Parking');
+    this.props.setPage('Parking & Shuttles');
   }
 
   render() {
@@ -95,6 +102,10 @@ class Map extends Component {
                 <div>Goodwin Ave. and University Ave (Free)</div>
               </li>
               <li>
+                <span><b>Garage B4</b> (levels 4, 5, 6)</span>
+                <div>Goodwin Ave. and University Ave (Free)</div>
+              </li>
+              <li>
                 <b>JSM Apartments</b>
                 <div>Wright St. and Healey St. (1$/hour)</div>
               </li>
@@ -110,6 +121,38 @@ class Map extends Component {
           containerElement={<div style={{ height: 400 }}/>}
           mapElement={<div style={{ height: '100%' }}/>}
         />
+
+        <Paper className="description-wrapper shuttle-desc">
+          <p>
+            Shuttles are available to take vistors from the parking lots
+            to the Engineering Campus. Scheduled times are shown below.
+          </p>
+        </Paper>
+
+        <Paper>
+          <Table className="shuttle">
+            <TableHead>
+              <TableRow className="shuttle-row">
+                <TableCell>Lot B22</TableCell>
+                <TableCell>Siebel Center</TableCell>
+                <TableCell>Lot 14</TableCell>
+                <TableCell>Cen-Comm Tent</TableCell>
+              </TableRow>
+            </TableHead>
+            <TableBody>
+              {shuttleSchedule.map(n => {
+                return (
+                  <TableRow className="shuttle-row times" key={n[0]}>
+                    <TableCell>{n[0]}</TableCell>
+                    <TableCell>{n[1]}</TableCell>
+                    <TableCell>{n[2]}</TableCell>
+                    <TableCell>{n[3]}</TableCell>
+                  </TableRow>
+                );
+              })}
+            </TableBody>
+          </Table>
+        </Paper>
       </div>
     );
   }
