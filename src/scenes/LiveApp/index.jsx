@@ -8,6 +8,10 @@ import IconButton from 'material-ui/IconButton';
 import Drawer from 'material-ui/Drawer';
 import Typography from 'material-ui/Typography';
 
+import Button from 'material-ui/Button';
+import Snackbar from 'material-ui/Snackbar';
+import CloseIcon from 'material-ui-icons/Close';
+
 import MenuIcon from 'material-ui-icons/Menu';
 import BackIcon from 'material-ui-icons/ArrowBack';
 
@@ -48,14 +52,22 @@ class LiveApp extends Component {
 
     this.state = {
       drawerOpen: false,
+      open: true,
     };
 
     this.toggleDrawer = this.toggleDrawer.bind(this);
+    this.handleClose = this.handleClose.bind(this);
   }
 
   toggleDrawer(open) {
     this.setState({
       drawerOpen: open,
+    });
+  }
+
+  handleClose() {
+    this.setState({
+      open: false,
     });
   }
 
@@ -128,6 +140,40 @@ class LiveApp extends Component {
           <Route path="/map" component={Map} />
           <Route path="/foodtrucks" component={FoodTrucks} />
         </div>
+
+        <Snackbar
+          anchorOrigin={{
+            vertical: 'bottom',
+            horizontal: 'center',
+          }}
+          open={this.state.open}
+          autoHideDuration={6000}
+          onClose={this.handleClose}
+          SnackbarContentProps={{
+            'aria-describedby': 'message-id',
+          }}
+          message={<span id="message-id">View the Visitors Guide online!</span>}
+          action={[
+            <Button
+              className="close-snack"
+              key="undo"
+              color="secondary"
+              size="small"
+              href="https://docs.wixstatic.com/ugd/55d45a_0270b66d06614c80990f5ac2dfe79d14.pdf"
+            >
+              VIEW
+            </Button>,
+            <IconButton
+              key="close"
+              aria-label="Close"
+              color="inherit"
+              className={classes.close}
+              onClick={this.handleClose}
+            >
+              <CloseIcon className="close-snack" />
+            </IconButton>,
+          ]}
+        />
       </div>
     );
   }

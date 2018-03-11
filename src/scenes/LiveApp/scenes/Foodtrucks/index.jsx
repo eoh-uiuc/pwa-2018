@@ -35,6 +35,7 @@ class Event extends Component {
   componentWillMount() {
     this.props.showBackArrow('/');
     this.props.setPage('Food Trucks');
+    window.scrollTo(0,0);
   }
 
   componentWillUnmount() {
@@ -54,11 +55,27 @@ class Event extends Component {
         </FoodTruck>
 
         <FoodTruck
-          name="Kona Ice"
-          image={require('assets/kona.jpg')}
-          href="https://www.facebook.com/KonaIceChampaign/"
+          name="Burrito King"
+          image={require('assets/burrito_king.jpg')}
+          href="http://burritokingchampaign.com/"
         >
-          <p>Flavoring your own shaved ice is pretty much the best thing ever. You can have as much of as many of our mouth-watering flavors as you want! Check out all of our amazing flavors.</p>
+          <p>
+            Burrito King is home of the best Mexican food in the Champaign-Urbana area. We are a favorite
+            among students and locals. Whether you are looking for a delicious taco or burrito, whether for lunch,
+            dinner or snack, we got the best food for you!!
+          </p>
+        </FoodTruck>
+
+        <FoodTruck
+          name="Juanito's Tacos"
+          image={require('assets/juanitos.jpg')}
+          href="https://www.facebook.com/pg/juanitostacos1"
+        >
+          <p>
+            Grab a taco bowl with shredded lettuce, cheese, beans, sour cream or avocado.
+            Choose from four choices types of meat: chorizo, chicken, beef or pork. All
+            fresh and cooked to order.
+          </p>
         </FoodTruck>
 
         <FoodTruck
@@ -66,13 +83,22 @@ class Event extends Component {
           image={require('assets/tonys.jpg')}
           href="https://www.facebook.com/FusilliTonys/"
         >
-          <p>Fusilli Tony's Italian Food is a food truck operating in Champaign-Urbana featuring Italian Beef Sandwiches, Pasta, Salads, Sub Sandwiches, and Panini.</p>
+          <p>
+            Fusilli Tony's Italian Food is a food truck operating in Champaign-Urbana featuring Italian Beef
+            Sandwiches, Pasta, Salads, Sub Sandwiches, and Panini.
+          </p>
         </FoodTruck>
 
         <FoodTruck
           name="Chester's Barbecue"
           image={require('assets/chesters.jpg')}
-        />
+          href="https://www.facebook.com/chestersBBQ/"
+        >
+          <p>
+            Try an applewood-pulled-pork sandwich, pulled-pork-BBQ nachos, and other delicious entrees
+            at this pig-faced truck
+          </p>
+        </FoodTruck>
       </div>
     );
   }
